@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hay_Fresh_Bits_2_32x32_0: 837909423887714421
+      Hay_Fresh_Bits_2_32x32_1: 285293978909581368
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

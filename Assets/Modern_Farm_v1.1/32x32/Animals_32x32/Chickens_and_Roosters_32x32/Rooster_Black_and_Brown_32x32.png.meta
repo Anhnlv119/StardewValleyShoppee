@@ -1947,7 +1947,80 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rooster_Black_and_Brown_32x32_0: -6043857963619826253
+      Rooster_Black_and_Brown_32x32_1: -3366320959469521267
+      Rooster_Black_and_Brown_32x32_10: -5489566424580805329
+      Rooster_Black_and_Brown_32x32_11: 6324315239013055219
+      Rooster_Black_and_Brown_32x32_12: -5203716411427621267
+      Rooster_Black_and_Brown_32x32_13: 6266777336861859520
+      Rooster_Black_and_Brown_32x32_14: 8674353625359517783
+      Rooster_Black_and_Brown_32x32_15: 5558208072979614371
+      Rooster_Black_and_Brown_32x32_16: -97758416043565567
+      Rooster_Black_and_Brown_32x32_17: -1276203388757643270
+      Rooster_Black_and_Brown_32x32_18: 2044735823615651132
+      Rooster_Black_and_Brown_32x32_19: -5845074407578272419
+      Rooster_Black_and_Brown_32x32_2: 4549623456991279905
+      Rooster_Black_and_Brown_32x32_20: 1882810770503958038
+      Rooster_Black_and_Brown_32x32_21: 3661632133511048052
+      Rooster_Black_and_Brown_32x32_22: -721946480548131032
+      Rooster_Black_and_Brown_32x32_23: 304293613205522961
+      Rooster_Black_and_Brown_32x32_24: -8893280512597118281
+      Rooster_Black_and_Brown_32x32_25: 5352649629065800504
+      Rooster_Black_and_Brown_32x32_26: 8483409695821899931
+      Rooster_Black_and_Brown_32x32_27: -1289173123821585697
+      Rooster_Black_and_Brown_32x32_28: 8073972156388927523
+      Rooster_Black_and_Brown_32x32_29: -2566314365300652665
+      Rooster_Black_and_Brown_32x32_3: -2508361231539069659
+      Rooster_Black_and_Brown_32x32_30: -562626004752070677
+      Rooster_Black_and_Brown_32x32_31: 1263166416132065640
+      Rooster_Black_and_Brown_32x32_32: -4589098056682864915
+      Rooster_Black_and_Brown_32x32_33: 7362810057614613970
+      Rooster_Black_and_Brown_32x32_34: 1765876932977918101
+      Rooster_Black_and_Brown_32x32_35: 1377093754320463756
+      Rooster_Black_and_Brown_32x32_36: -3938543107950099724
+      Rooster_Black_and_Brown_32x32_37: -7071967223651279388
+      Rooster_Black_and_Brown_32x32_38: 5914948150914249907
+      Rooster_Black_and_Brown_32x32_39: 4258187038763539654
+      Rooster_Black_and_Brown_32x32_4: 8485759860945846238
+      Rooster_Black_and_Brown_32x32_40: 642921558842655181
+      Rooster_Black_and_Brown_32x32_41: 4267870636251743467
+      Rooster_Black_and_Brown_32x32_42: 2512931092727083973
+      Rooster_Black_and_Brown_32x32_43: -7578084460659999471
+      Rooster_Black_and_Brown_32x32_44: -3779789679777983090
+      Rooster_Black_and_Brown_32x32_45: -1189035864464152930
+      Rooster_Black_and_Brown_32x32_46: -8065791234788351737
+      Rooster_Black_and_Brown_32x32_47: 3576937742011559826
+      Rooster_Black_and_Brown_32x32_48: -4506226402109351733
+      Rooster_Black_and_Brown_32x32_49: -1894464142229241237
+      Rooster_Black_and_Brown_32x32_5: 698134456279665400
+      Rooster_Black_and_Brown_32x32_50: -2923364945868644836
+      Rooster_Black_and_Brown_32x32_51: -6080056903588102176
+      Rooster_Black_and_Brown_32x32_52: -4802016644344761298
+      Rooster_Black_and_Brown_32x32_53: -2132300671136982783
+      Rooster_Black_and_Brown_32x32_54: 5865424946962815153
+      Rooster_Black_and_Brown_32x32_55: -551931580225766898
+      Rooster_Black_and_Brown_32x32_56: -4452133966913037835
+      Rooster_Black_and_Brown_32x32_57: 4452322113037389643
+      Rooster_Black_and_Brown_32x32_58: -7016258033429969481
+      Rooster_Black_and_Brown_32x32_59: -7240821487525512110
+      Rooster_Black_and_Brown_32x32_6: 3956483016316395396
+      Rooster_Black_and_Brown_32x32_60: -5308453895921464339
+      Rooster_Black_and_Brown_32x32_61: -5576576927271085342
+      Rooster_Black_and_Brown_32x32_62: -4913468198167178325
+      Rooster_Black_and_Brown_32x32_63: 1669836134705951110
+      Rooster_Black_and_Brown_32x32_64: -8384091416567676862
+      Rooster_Black_and_Brown_32x32_65: -5486190630748415364
+      Rooster_Black_and_Brown_32x32_66: 2022283170226294551
+      Rooster_Black_and_Brown_32x32_67: -7266851278745199256
+      Rooster_Black_and_Brown_32x32_68: 8173910249896033876
+      Rooster_Black_and_Brown_32x32_69: 5646277159996323055
+      Rooster_Black_and_Brown_32x32_7: 3671445072583268424
+      Rooster_Black_and_Brown_32x32_70: -9154743302169510066
+      Rooster_Black_and_Brown_32x32_71: 6037546683733341502
+      Rooster_Black_and_Brown_32x32_72: 3321305077965761824
+      Rooster_Black_and_Brown_32x32_8: -4982184430838818854
+      Rooster_Black_and_Brown_32x32_9: 3730625711110718783
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

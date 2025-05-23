@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hay_Fresh_Pile_32x32_0: -1774519353328378458
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

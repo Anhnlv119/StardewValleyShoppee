@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Crops_Prickly_Pear_0: 556551889705150508
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

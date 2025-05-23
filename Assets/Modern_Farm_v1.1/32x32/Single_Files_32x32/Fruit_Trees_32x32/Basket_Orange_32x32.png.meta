@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Basket_Orange_32x32_0: 1577237731476711419
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tailor_Woman_Mannequin_32x32_0: 7611708921323668346
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Seed_Bags_Lettuce_0: -5694305961824225895
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

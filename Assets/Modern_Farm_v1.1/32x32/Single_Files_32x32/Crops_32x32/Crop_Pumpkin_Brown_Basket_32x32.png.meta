@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Pumpkin_Brown_Basket_32x32_0: -3168212371364178869
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Singles_Icons_24x24_Tools_Bucket_milk_0: -2185569107233405882
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

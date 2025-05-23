@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Crops_Chili_Pepper_0: 6490698076374411646
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

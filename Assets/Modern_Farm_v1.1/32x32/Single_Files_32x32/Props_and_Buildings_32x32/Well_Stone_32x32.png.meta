@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Well_Stone_32x32_0: 317081506944523917
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

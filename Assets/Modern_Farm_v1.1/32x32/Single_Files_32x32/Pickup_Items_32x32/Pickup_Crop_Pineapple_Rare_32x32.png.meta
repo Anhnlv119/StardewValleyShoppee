@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pickup_Crop_Pineapple_Rare_32x32_0: -3661025042568129291
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

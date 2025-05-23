@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chimney_Roof_Farmer_House_32x32_0: 1191458653956331576
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

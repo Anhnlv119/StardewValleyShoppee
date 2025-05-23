@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Food_Grain_Bag_0: 2261588353630792085
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

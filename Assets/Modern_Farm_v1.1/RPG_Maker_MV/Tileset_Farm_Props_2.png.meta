@@ -1122,7 +1122,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tileset_Farm_Props_2_0: -2611539097579155474
+      Tileset_Farm_Props_2_1: 49753147793580488
+      Tileset_Farm_Props_2_10: 8903662539736282227
+      Tileset_Farm_Props_2_11: 5559352213526224626
+      Tileset_Farm_Props_2_12: -3133791234905551101
+      Tileset_Farm_Props_2_13: 577070562602515750
+      Tileset_Farm_Props_2_14: 913159093618204285
+      Tileset_Farm_Props_2_15: 832834230135786366
+      Tileset_Farm_Props_2_16: 5831551575376847415
+      Tileset_Farm_Props_2_17: -3360358968474965380
+      Tileset_Farm_Props_2_18: 2414413966555388987
+      Tileset_Farm_Props_2_19: -3579955533883781569
+      Tileset_Farm_Props_2_2: -8195549430609897958
+      Tileset_Farm_Props_2_20: -1773038494829865184
+      Tileset_Farm_Props_2_21: -1373984471506963309
+      Tileset_Farm_Props_2_22: 852794041358319044
+      Tileset_Farm_Props_2_23: 7145521650787073332
+      Tileset_Farm_Props_2_24: 5629169787768314015
+      Tileset_Farm_Props_2_25: -4860083948280346349
+      Tileset_Farm_Props_2_26: 4287667080758069220
+      Tileset_Farm_Props_2_27: 2521010622944985468
+      Tileset_Farm_Props_2_28: 6472697337801017305
+      Tileset_Farm_Props_2_29: 3806074548148128353
+      Tileset_Farm_Props_2_3: -5284565339901876193
+      Tileset_Farm_Props_2_30: 1065984023831372084
+      Tileset_Farm_Props_2_31: -8376114773154335210
+      Tileset_Farm_Props_2_32: 5633645170734239284
+      Tileset_Farm_Props_2_33: 3181923543600541110
+      Tileset_Farm_Props_2_34: 5405008769469120407
+      Tileset_Farm_Props_2_35: -8863042496783121187
+      Tileset_Farm_Props_2_36: 6960713629749343545
+      Tileset_Farm_Props_2_37: -8868583398888783953
+      Tileset_Farm_Props_2_38: 122026485021711345
+      Tileset_Farm_Props_2_39: 3227996907060191299
+      Tileset_Farm_Props_2_4: 4888854334463512626
+      Tileset_Farm_Props_2_5: 2506599988237240459
+      Tileset_Farm_Props_2_6: 117015568268469353
+      Tileset_Farm_Props_2_7: -3583190735696128825
+      Tileset_Farm_Props_2_8: 5287548071857230975
+      Tileset_Farm_Props_2_9: -3191748375863523108
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

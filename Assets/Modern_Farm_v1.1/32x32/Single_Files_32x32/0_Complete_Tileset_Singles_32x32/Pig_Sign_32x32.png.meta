@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pig_Sign_32x32_0: 5342309857702296111
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

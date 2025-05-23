@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$MV_Dog_Shepherd_0': -3479607514214011334
+      '!$MV_Dog_Shepherd_1': -5821484869717842047
+      '!$MV_Dog_Shepherd_10': -7401669499709585237
+      '!$MV_Dog_Shepherd_11': -4515734148987761152
+      '!$MV_Dog_Shepherd_2': 5798592758651690060
+      '!$MV_Dog_Shepherd_3': -9179330127227883389
+      '!$MV_Dog_Shepherd_4': -6567238459824840956
+      '!$MV_Dog_Shepherd_5': 3507216773803777758
+      '!$MV_Dog_Shepherd_6': -5191390919589960665
+      '!$MV_Dog_Shepherd_7': -7232437478896471749
+      '!$MV_Dog_Shepherd_8': -770712036319874976
+      '!$MV_Dog_Shepherd_9': 7453927369973052692
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1072,7 +1072,45 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Farmer_1_Dig_36_frames_32x32_0: -333690703557381437
+      Farmer_1_Dig_36_frames_32x32_1: -71379759097403978
+      Farmer_1_Dig_36_frames_32x32_10: -5499939937903717886
+      Farmer_1_Dig_36_frames_32x32_11: 6905236296927434923
+      Farmer_1_Dig_36_frames_32x32_12: -3781205689538003727
+      Farmer_1_Dig_36_frames_32x32_13: 4024361584064083788
+      Farmer_1_Dig_36_frames_32x32_14: 7582678468318138584
+      Farmer_1_Dig_36_frames_32x32_15: -2693105620673684833
+      Farmer_1_Dig_36_frames_32x32_16: 2478925858429000151
+      Farmer_1_Dig_36_frames_32x32_17: -1851120734283955203
+      Farmer_1_Dig_36_frames_32x32_18: -3093180532748771976
+      Farmer_1_Dig_36_frames_32x32_19: 5998875659712949294
+      Farmer_1_Dig_36_frames_32x32_2: 6454166948211145088
+      Farmer_1_Dig_36_frames_32x32_20: 5842057927736367611
+      Farmer_1_Dig_36_frames_32x32_21: 2706996250183058037
+      Farmer_1_Dig_36_frames_32x32_22: -6038028551354974353
+      Farmer_1_Dig_36_frames_32x32_23: 7706291993680578355
+      Farmer_1_Dig_36_frames_32x32_24: 2509417291704075107
+      Farmer_1_Dig_36_frames_32x32_25: -4642654135138087840
+      Farmer_1_Dig_36_frames_32x32_26: 4094397874461664170
+      Farmer_1_Dig_36_frames_32x32_27: -6870988289537958823
+      Farmer_1_Dig_36_frames_32x32_28: 8052521810863609710
+      Farmer_1_Dig_36_frames_32x32_29: 4637454220683646863
+      Farmer_1_Dig_36_frames_32x32_3: 4400180494789740971
+      Farmer_1_Dig_36_frames_32x32_30: -3216720887189264123
+      Farmer_1_Dig_36_frames_32x32_31: 3353371851916422751
+      Farmer_1_Dig_36_frames_32x32_32: -3966959182781534649
+      Farmer_1_Dig_36_frames_32x32_33: -3587358385560230736
+      Farmer_1_Dig_36_frames_32x32_34: -9034214082405320431
+      Farmer_1_Dig_36_frames_32x32_35: -4651878283523984318
+      Farmer_1_Dig_36_frames_32x32_36: 6144520675068589494
+      Farmer_1_Dig_36_frames_32x32_37: -2364698307813361705
+      Farmer_1_Dig_36_frames_32x32_4: -6409686206553738008
+      Farmer_1_Dig_36_frames_32x32_5: 6544395202464515874
+      Farmer_1_Dig_36_frames_32x32_6: -7264113508999899879
+      Farmer_1_Dig_36_frames_32x32_7: -8790812486244544433
+      Farmer_1_Dig_36_frames_32x32_8: -3772993381937227503
+      Farmer_1_Dig_36_frames_32x32_9: 3254235218242818886
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

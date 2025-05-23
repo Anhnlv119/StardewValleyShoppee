@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brush_Hammer_Black_Shadow_DIY_Crafting_Table_32x32_0: 8721392366447450581
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

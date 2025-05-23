@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Oak_Green_Big_Modular_Left_32x32_0: 6307114199783849809
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Water_Drop_Outlined_32x32_0: -4404942573241607423
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

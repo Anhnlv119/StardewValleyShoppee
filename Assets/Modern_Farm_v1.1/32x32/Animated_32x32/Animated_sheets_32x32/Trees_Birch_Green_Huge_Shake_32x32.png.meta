@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Trees_Birch_Green_Huge_Shake_32x32_0: -2252585396772893555
+      Trees_Birch_Green_Huge_Shake_32x32_1: 1293396423554637988
+      Trees_Birch_Green_Huge_Shake_32x32_2: -7355086923955294987
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

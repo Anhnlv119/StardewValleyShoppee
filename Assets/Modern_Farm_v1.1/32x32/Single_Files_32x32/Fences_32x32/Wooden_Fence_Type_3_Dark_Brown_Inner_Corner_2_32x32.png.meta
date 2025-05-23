@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wooden_Fence_Type_3_Dark_Brown_Inner_Corner_2_32x32_0: -1313269711553769643
+      Wooden_Fence_Type_3_Dark_Brown_Inner_Corner_2_32x32_1: -7655494005807080987
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

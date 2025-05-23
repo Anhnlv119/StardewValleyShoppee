@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Crops_ Onion_0: 2507570890207620498
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

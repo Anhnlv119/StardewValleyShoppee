@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sign_Zucchini_32x32_0: -5404695198856829947
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

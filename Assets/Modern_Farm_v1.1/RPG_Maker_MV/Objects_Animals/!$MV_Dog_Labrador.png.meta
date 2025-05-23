@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$MV_Dog_Labrador_0': -7810159190548460631
+      '!$MV_Dog_Labrador_1': 1351666339332408737
+      '!$MV_Dog_Labrador_10': -7122680095210795869
+      '!$MV_Dog_Labrador_11': 862014169453299538
+      '!$MV_Dog_Labrador_2': -1871523362099650235
+      '!$MV_Dog_Labrador_3': 7745310945264572112
+      '!$MV_Dog_Labrador_4': -6863529155542255571
+      '!$MV_Dog_Labrador_5': 5023749557528484131
+      '!$MV_Dog_Labrador_6': -6163876805901389427
+      '!$MV_Dog_Labrador_7': 119665379710649761
+      '!$MV_Dog_Labrador_8': 316650128664249929
+      '!$MV_Dog_Labrador_9': -254629638330514083
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

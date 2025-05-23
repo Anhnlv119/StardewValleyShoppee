@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Singles_Icons_24x24_Resources_Wool_White_0: 7454556596293741804
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

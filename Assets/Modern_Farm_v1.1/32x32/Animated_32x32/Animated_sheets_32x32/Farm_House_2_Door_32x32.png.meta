@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Farm_House_2_Door_32x32_0: -2004211845934242343
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

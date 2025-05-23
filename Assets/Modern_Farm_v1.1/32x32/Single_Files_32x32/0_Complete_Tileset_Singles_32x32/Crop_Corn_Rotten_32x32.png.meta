@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Corn_Rotten_32x32_0: 2356277814810311164
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

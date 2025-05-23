@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cheese_Shelf_Full_3_32x32_0: 5543756926809499303
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

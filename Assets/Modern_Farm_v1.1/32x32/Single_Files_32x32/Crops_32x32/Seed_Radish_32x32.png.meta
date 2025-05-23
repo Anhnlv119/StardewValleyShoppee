@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Seed_Radish_32x32_0: 2210218981690377725
+      Seed_Radish_32x32_1: -8955345100056868742
+      Seed_Radish_32x32_2: 8411942869124645442
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tree_Birch_Green_Huge_32x32_0: -327048433285739933
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

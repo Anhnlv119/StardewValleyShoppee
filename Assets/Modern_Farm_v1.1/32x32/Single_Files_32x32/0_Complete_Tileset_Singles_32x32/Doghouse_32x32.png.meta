@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Doghouse_32x32_0: 5485655635900544343
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pencils_Can_DIY_Crafting_Table_32x32_0: 8723275864713216874
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

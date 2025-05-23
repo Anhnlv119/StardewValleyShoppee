@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$MV_Farmer_1_Fishing_0': 6298667963971014432
+      '!$MV_Farmer_1_Fishing_1': -26550807030609327
+      '!$MV_Farmer_1_Fishing_10': 3766373740345688114
+      '!$MV_Farmer_1_Fishing_11': 4696801213456624693
+      '!$MV_Farmer_1_Fishing_2': 5898911080844717194
+      '!$MV_Farmer_1_Fishing_3': 5517200550149726760
+      '!$MV_Farmer_1_Fishing_4': -5738931714299548693
+      '!$MV_Farmer_1_Fishing_5': 6104727506234184419
+      '!$MV_Farmer_1_Fishing_6': -7484233415660673838
+      '!$MV_Farmer_1_Fishing_7': -4495376937137675460
+      '!$MV_Farmer_1_Fishing_8': -1650293255145970287
+      '!$MV_Farmer_1_Fishing_9': 9069962416947879772
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

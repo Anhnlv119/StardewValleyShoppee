@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Color_Can_Full_DIY_Crafting_Table_32x32_0: -7027489381917717494
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

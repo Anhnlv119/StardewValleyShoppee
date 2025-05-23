@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Crops_ Peach_0: 6887369826115476360
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

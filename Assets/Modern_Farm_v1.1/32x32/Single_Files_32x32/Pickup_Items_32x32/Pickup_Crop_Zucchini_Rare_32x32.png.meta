@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pickup_Crop_Zucchini_Rare_32x32_0: 4049783848349954012
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

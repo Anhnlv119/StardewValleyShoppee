@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Market_Stand_Yellow_Small_32x32_0: -1417878336321355936
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

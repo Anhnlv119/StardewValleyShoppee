@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Singles_Icons_32x32_Food_Chicken_0: 1125305312482009604
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

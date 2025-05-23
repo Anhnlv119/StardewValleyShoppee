@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Singles_Icons_24x24_Tools_Fishing_Rod_0: -4690228149882654045
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

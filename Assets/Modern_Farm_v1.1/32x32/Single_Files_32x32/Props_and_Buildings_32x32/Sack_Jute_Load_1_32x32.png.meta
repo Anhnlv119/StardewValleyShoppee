@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sack_Jute_Load_1_32x32_0: -3388586363742049387
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

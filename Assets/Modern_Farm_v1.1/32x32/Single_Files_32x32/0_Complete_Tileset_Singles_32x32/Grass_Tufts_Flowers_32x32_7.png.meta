@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grass_Tufts_Flowers_32x32_7_0: 4498716231131872668
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

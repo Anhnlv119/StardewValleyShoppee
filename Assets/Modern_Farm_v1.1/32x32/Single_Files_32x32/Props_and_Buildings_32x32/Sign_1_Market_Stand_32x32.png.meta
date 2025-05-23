@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sign_1_Market_Stand_32x32_0: -3985291929890868287
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

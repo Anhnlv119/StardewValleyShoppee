@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dog_Bowl_Grey_Empty_32x32_0: 8436419186892010981
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

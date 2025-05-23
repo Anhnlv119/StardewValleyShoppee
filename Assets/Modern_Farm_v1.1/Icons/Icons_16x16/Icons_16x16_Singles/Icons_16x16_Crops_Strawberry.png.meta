@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Crops_Strawberry_0: 6378635140579100934
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fruit_Tree_Lemon_Unripe_Shake_32x32_0: 1034047867047811473
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

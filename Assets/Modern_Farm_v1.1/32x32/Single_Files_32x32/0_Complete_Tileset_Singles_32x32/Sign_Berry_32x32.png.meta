@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sign_Berry_32x32_0: -909294021308751255
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

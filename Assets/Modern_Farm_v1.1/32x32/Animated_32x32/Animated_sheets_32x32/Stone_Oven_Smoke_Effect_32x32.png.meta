@@ -1072,7 +1072,45 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stone_Oven_Smoke_Effect_32x32_0: -1656253357390301450
+      Stone_Oven_Smoke_Effect_32x32_1: 8589405350913629290
+      Stone_Oven_Smoke_Effect_32x32_10: 8667559689709596452
+      Stone_Oven_Smoke_Effect_32x32_11: -4437674503639228623
+      Stone_Oven_Smoke_Effect_32x32_12: -4231027991535424524
+      Stone_Oven_Smoke_Effect_32x32_13: -3603794367995876130
+      Stone_Oven_Smoke_Effect_32x32_14: 2280546330396254135
+      Stone_Oven_Smoke_Effect_32x32_15: -1368399595445184067
+      Stone_Oven_Smoke_Effect_32x32_16: 7028457066174114239
+      Stone_Oven_Smoke_Effect_32x32_17: 6454991254424502499
+      Stone_Oven_Smoke_Effect_32x32_18: 6469441023862342370
+      Stone_Oven_Smoke_Effect_32x32_19: 4726552364737147430
+      Stone_Oven_Smoke_Effect_32x32_2: 3837485349153302132
+      Stone_Oven_Smoke_Effect_32x32_20: -2569659672712060684
+      Stone_Oven_Smoke_Effect_32x32_21: -8510392173855159888
+      Stone_Oven_Smoke_Effect_32x32_22: 6266134966992593390
+      Stone_Oven_Smoke_Effect_32x32_23: -8246056355081020997
+      Stone_Oven_Smoke_Effect_32x32_24: -473455605839455172
+      Stone_Oven_Smoke_Effect_32x32_25: -1645320929102456847
+      Stone_Oven_Smoke_Effect_32x32_26: -5138441077806337242
+      Stone_Oven_Smoke_Effect_32x32_27: -9053263517649535851
+      Stone_Oven_Smoke_Effect_32x32_28: 91425338600488277
+      Stone_Oven_Smoke_Effect_32x32_29: -7980986321494803691
+      Stone_Oven_Smoke_Effect_32x32_3: 4397435108096112283
+      Stone_Oven_Smoke_Effect_32x32_30: -864800991779411470
+      Stone_Oven_Smoke_Effect_32x32_31: 3832313262790537728
+      Stone_Oven_Smoke_Effect_32x32_32: -5367839701835432402
+      Stone_Oven_Smoke_Effect_32x32_33: -4241126658898476665
+      Stone_Oven_Smoke_Effect_32x32_34: 7033022337544896062
+      Stone_Oven_Smoke_Effect_32x32_35: 4220338723493093267
+      Stone_Oven_Smoke_Effect_32x32_36: -3794690557048010138
+      Stone_Oven_Smoke_Effect_32x32_37: 1400638238411289297
+      Stone_Oven_Smoke_Effect_32x32_4: 6836857866523648962
+      Stone_Oven_Smoke_Effect_32x32_5: 8547244275603143785
+      Stone_Oven_Smoke_Effect_32x32_6: -6056556105544775206
+      Stone_Oven_Smoke_Effect_32x32_7: -1366528745006565748
+      Stone_Oven_Smoke_Effect_32x32_8: 2051434665490990214
+      Stone_Oven_Smoke_Effect_32x32_9: 8781543723254289882
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

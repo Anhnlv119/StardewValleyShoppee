@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Farmer_2_Harvesting_36_frames_32x32_0: 3653720019103072455
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pickup_Crop_CRROT_Rare_32X32_0: -7503700024712602513
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

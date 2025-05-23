@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pot_Tree_Orange_32x32_0: -1903483280005428474
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

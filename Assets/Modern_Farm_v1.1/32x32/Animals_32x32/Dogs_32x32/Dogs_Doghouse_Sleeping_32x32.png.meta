@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dogs_Doghouse_Sleeping_32x32_0: 6601621931391255950
+      Dogs_Doghouse_Sleeping_32x32_1: 8060354376518150847
+      Dogs_Doghouse_Sleeping_32x32_2: -229988877550210377
+      Dogs_Doghouse_Sleeping_32x32_3: 4793675662968886117
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

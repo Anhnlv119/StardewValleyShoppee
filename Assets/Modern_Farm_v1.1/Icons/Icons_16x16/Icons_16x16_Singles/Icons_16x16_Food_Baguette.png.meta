@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Food_Baguette_0: -1059642329605772903
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

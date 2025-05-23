@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Singles_Icons_24x24_Seed_Bags_Zucchini_0: 2086910379022121228
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

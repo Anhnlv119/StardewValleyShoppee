@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Singles_Icons_32x32_Food_Cheese_0: -1535412501978501703
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chicken_Coop_Railing_Grey_Single_32x32_0: -3477321512289251028
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

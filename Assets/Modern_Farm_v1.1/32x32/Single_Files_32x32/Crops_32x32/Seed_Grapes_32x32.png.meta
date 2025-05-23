@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Seed_Grapes_32x32_0: 2294520686369567329
+      Seed_Grapes_32x32_1: -1748454631832603114
+      Seed_Grapes_32x32_2: 8521063057914826087
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

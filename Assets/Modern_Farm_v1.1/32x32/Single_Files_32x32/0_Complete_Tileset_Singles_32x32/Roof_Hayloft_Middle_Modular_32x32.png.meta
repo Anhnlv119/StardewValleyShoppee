@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Roof_Hayloft_Middle_Modular_32x32_0: -6199661373859795131
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

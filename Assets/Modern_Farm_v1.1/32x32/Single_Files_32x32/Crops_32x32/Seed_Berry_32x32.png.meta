@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Seed_Berry_32x32_0: 3164020108557557139
+      Seed_Berry_32x32_1: -2345259832356947382
+      Seed_Berry_32x32_2: -594547723522866422
+      Seed_Berry_32x32_3: 9210221782507948622
+      Seed_Berry_32x32_4: -1845858484331285079
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

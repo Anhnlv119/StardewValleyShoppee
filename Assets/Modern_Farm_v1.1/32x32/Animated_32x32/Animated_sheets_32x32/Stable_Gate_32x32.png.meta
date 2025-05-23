@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stable_Gate_32x32_0: 3487695578331731811
+      Stable_Gate_32x32_1: -5911593440772270016
+      Stable_Gate_32x32_10: 5064982925028278921
+      Stable_Gate_32x32_11: 1810838184298001338
+      Stable_Gate_32x32_2: -7937941086394099415
+      Stable_Gate_32x32_3: 172218729182160862
+      Stable_Gate_32x32_4: -8235971615221418435
+      Stable_Gate_32x32_5: 1966321537638481872
+      Stable_Gate_32x32_6: 5671210616014251818
+      Stable_Gate_32x32_7: 7938021477492288958
+      Stable_Gate_32x32_8: -176781810278213311
+      Stable_Gate_32x32_9: -2769169590157222128
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

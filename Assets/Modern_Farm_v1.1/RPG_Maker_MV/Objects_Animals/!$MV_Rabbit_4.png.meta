@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$MV_Rabbit_4_0': 7375556415141272277
+      '!$MV_Rabbit_4_1': 7315418713772505876
+      '!$MV_Rabbit_4_10': -6811888481293918939
+      '!$MV_Rabbit_4_11': -2580781696345206614
+      '!$MV_Rabbit_4_2': -1661338113791769835
+      '!$MV_Rabbit_4_3': 9038204346959699065
+      '!$MV_Rabbit_4_4': -4606114037329890323
+      '!$MV_Rabbit_4_5': 1844080914137602529
+      '!$MV_Rabbit_4_6': -7440972677526860552
+      '!$MV_Rabbit_4_7': -8427074757472138441
+      '!$MV_Rabbit_4_8': -682345428336533237
+      '!$MV_Rabbit_4_9': 7366776259306658897
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

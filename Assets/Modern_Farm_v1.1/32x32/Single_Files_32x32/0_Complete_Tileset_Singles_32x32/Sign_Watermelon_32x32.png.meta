@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sign_Watermelon_32x32_0: 5887389730717889223
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Drinking_Trough_Horizontal_Full_32x32_0: -6711045380834946673
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

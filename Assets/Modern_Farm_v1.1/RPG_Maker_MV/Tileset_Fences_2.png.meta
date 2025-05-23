@@ -772,7 +772,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tileset_Fences_2_0: 4830310755869112906
+      Tileset_Fences_2_1: 3599006587645920080
+      Tileset_Fences_2_10: 5278868014407232661
+      Tileset_Fences_2_11: 5819894009897793000
+      Tileset_Fences_2_12: 9093958793691597916
+      Tileset_Fences_2_13: -6898562890442916762
+      Tileset_Fences_2_14: -9067784175276385041
+      Tileset_Fences_2_15: -6907734538144859554
+      Tileset_Fences_2_16: -2135963819220399771
+      Tileset_Fences_2_17: -6501131089758636428
+      Tileset_Fences_2_18: -4324746593571438404
+      Tileset_Fences_2_19: -4662647340152276888
+      Tileset_Fences_2_2: 564963620142268035
+      Tileset_Fences_2_20: 8871890058432152647
+      Tileset_Fences_2_21: -4764460236511897866
+      Tileset_Fences_2_22: -2413048014791622178
+      Tileset_Fences_2_23: 6562756579709546869
+      Tileset_Fences_2_24: 4453746355149858235
+      Tileset_Fences_2_25: 4704474943506023131
+      Tileset_Fences_2_3: -5522385843362445221
+      Tileset_Fences_2_4: -7653425411441547185
+      Tileset_Fences_2_5: -8621801092143869070
+      Tileset_Fences_2_6: 1265278374872816627
+      Tileset_Fences_2_7: -5027855819262408983
+      Tileset_Fences_2_8: 8289599866912378801
+      Tileset_Fences_2_9: 2464385714965757032
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

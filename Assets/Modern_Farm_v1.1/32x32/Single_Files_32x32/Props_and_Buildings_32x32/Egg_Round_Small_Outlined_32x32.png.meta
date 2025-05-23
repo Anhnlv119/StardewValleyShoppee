@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Egg_Round_Small_Outlined_32x32_0: 4590130778335660742
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

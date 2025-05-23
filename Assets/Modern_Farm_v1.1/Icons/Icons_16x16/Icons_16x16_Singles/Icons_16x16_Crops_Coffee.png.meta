@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Crops_Coffee_0: 4753558671642257671
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

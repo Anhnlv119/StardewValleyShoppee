@@ -1522,7 +1522,63 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Farmer_1_Chopping_40_frames_32x32_0: 8566857929361909680
+      Farmer_1_Chopping_40_frames_32x32_1: 1141043881825060936
+      Farmer_1_Chopping_40_frames_32x32_10: -7091567490458562052
+      Farmer_1_Chopping_40_frames_32x32_11: -5597460153109920311
+      Farmer_1_Chopping_40_frames_32x32_12: -7340572591061641734
+      Farmer_1_Chopping_40_frames_32x32_13: -4189252918847254904
+      Farmer_1_Chopping_40_frames_32x32_14: 2044390544879350666
+      Farmer_1_Chopping_40_frames_32x32_15: -5607902066105913296
+      Farmer_1_Chopping_40_frames_32x32_16: 1699275033549230556
+      Farmer_1_Chopping_40_frames_32x32_17: 7294725236059946012
+      Farmer_1_Chopping_40_frames_32x32_18: -6815140368045662730
+      Farmer_1_Chopping_40_frames_32x32_19: 6298698656721651447
+      Farmer_1_Chopping_40_frames_32x32_2: -2964910802427163103
+      Farmer_1_Chopping_40_frames_32x32_20: -6967468298642884966
+      Farmer_1_Chopping_40_frames_32x32_21: 623325229642240597
+      Farmer_1_Chopping_40_frames_32x32_22: 4131303471755350857
+      Farmer_1_Chopping_40_frames_32x32_23: -5699655534529136276
+      Farmer_1_Chopping_40_frames_32x32_24: -3477122377733422579
+      Farmer_1_Chopping_40_frames_32x32_25: -5526184647542797020
+      Farmer_1_Chopping_40_frames_32x32_26: 9198121145560638078
+      Farmer_1_Chopping_40_frames_32x32_27: 6930438231410035703
+      Farmer_1_Chopping_40_frames_32x32_28: -3131698355190647436
+      Farmer_1_Chopping_40_frames_32x32_29: 8824250632371585452
+      Farmer_1_Chopping_40_frames_32x32_3: -5914671029789931973
+      Farmer_1_Chopping_40_frames_32x32_30: 6460591296729122791
+      Farmer_1_Chopping_40_frames_32x32_31: 6502265672740171894
+      Farmer_1_Chopping_40_frames_32x32_32: 2835151148223064016
+      Farmer_1_Chopping_40_frames_32x32_33: 4865373948919748449
+      Farmer_1_Chopping_40_frames_32x32_34: 4945642971253834730
+      Farmer_1_Chopping_40_frames_32x32_35: -15087793030637760
+      Farmer_1_Chopping_40_frames_32x32_36: 3672675544276223959
+      Farmer_1_Chopping_40_frames_32x32_37: 3671999589580859074
+      Farmer_1_Chopping_40_frames_32x32_38: 7172193991221696779
+      Farmer_1_Chopping_40_frames_32x32_39: -3917149275364487038
+      Farmer_1_Chopping_40_frames_32x32_4: 2299867964895305377
+      Farmer_1_Chopping_40_frames_32x32_40: -1979063642031245972
+      Farmer_1_Chopping_40_frames_32x32_41: -1650947395775907014
+      Farmer_1_Chopping_40_frames_32x32_42: -7130068001782448735
+      Farmer_1_Chopping_40_frames_32x32_43: 1917611180538333256
+      Farmer_1_Chopping_40_frames_32x32_44: 7249584931350118686
+      Farmer_1_Chopping_40_frames_32x32_45: -1544189875326570760
+      Farmer_1_Chopping_40_frames_32x32_46: -5089562842831564661
+      Farmer_1_Chopping_40_frames_32x32_47: 9202370448128399480
+      Farmer_1_Chopping_40_frames_32x32_48: 377916575639702582
+      Farmer_1_Chopping_40_frames_32x32_49: -4346990452378321191
+      Farmer_1_Chopping_40_frames_32x32_5: 7053501257670821949
+      Farmer_1_Chopping_40_frames_32x32_50: 4995691944774149657
+      Farmer_1_Chopping_40_frames_32x32_51: 1157935066667479517
+      Farmer_1_Chopping_40_frames_32x32_52: -1519218334654838210
+      Farmer_1_Chopping_40_frames_32x32_53: 4186127258757108046
+      Farmer_1_Chopping_40_frames_32x32_54: 7756827259676415534
+      Farmer_1_Chopping_40_frames_32x32_55: -2983947830823314755
+      Farmer_1_Chopping_40_frames_32x32_6: 2247562619137271923
+      Farmer_1_Chopping_40_frames_32x32_7: -1512882672374215878
+      Farmer_1_Chopping_40_frames_32x32_8: -8683548196659484322
+      Farmer_1_Chopping_40_frames_32x32_9: 1091329588816330179
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

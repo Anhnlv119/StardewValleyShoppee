@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Grapes_1_Brown_Basket_32x32_0: -4670441994115483504
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

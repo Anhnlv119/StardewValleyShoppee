@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Modern_Farm_vfx_Falling_Leaves_3_32x32_0: -5499811571974542798
+      Modern_Farm_vfx_Falling_Leaves_3_32x32_1: -6597473445175554290
+      Modern_Farm_vfx_Falling_Leaves_3_32x32_2: -6448207656737041026
+      Modern_Farm_vfx_Falling_Leaves_3_32x32_3: 797057560178421843
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

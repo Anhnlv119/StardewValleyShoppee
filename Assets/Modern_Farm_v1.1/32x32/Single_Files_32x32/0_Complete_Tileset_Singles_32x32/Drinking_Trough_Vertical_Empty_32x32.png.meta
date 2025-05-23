@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Drinking_Trough_Vertical_Empty_32x32_0: 2338298894084544500
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

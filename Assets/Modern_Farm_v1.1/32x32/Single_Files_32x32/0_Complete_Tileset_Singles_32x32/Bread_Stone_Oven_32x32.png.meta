@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bread_Stone_Oven_32x32_0: 4356785250628071780
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

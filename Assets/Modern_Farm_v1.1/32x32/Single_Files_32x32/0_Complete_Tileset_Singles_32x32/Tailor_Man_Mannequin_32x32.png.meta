@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tailor_Man_Mannequin_32x32_0: 7678222740888742390
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

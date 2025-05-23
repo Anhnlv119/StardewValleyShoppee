@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Singles_Icons_24x24_Tools_Watering_Can_0: -3220382686635428332
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

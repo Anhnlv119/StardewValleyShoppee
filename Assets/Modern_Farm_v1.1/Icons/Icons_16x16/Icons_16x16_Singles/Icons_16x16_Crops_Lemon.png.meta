@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Crops_Lemon_0: 3197688283062089958
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

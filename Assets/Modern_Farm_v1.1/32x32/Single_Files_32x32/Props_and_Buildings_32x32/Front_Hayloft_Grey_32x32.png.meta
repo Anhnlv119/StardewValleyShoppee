@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Front_Hayloft_Grey_32x32_0: 9140457246802921903
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Accessory_Bamboo_Hat_Brown_0: 2569977941108942507
+      Accessory_Bamboo_Hat_Brown_1: -7347646424936400741
+      Accessory_Bamboo_Hat_Brown_10: 2427468448492419072
+      Accessory_Bamboo_Hat_Brown_2: 2493049098814063968
+      Accessory_Bamboo_Hat_Brown_3: 6522939884311296219
+      Accessory_Bamboo_Hat_Brown_4: -2045892937673771102
+      Accessory_Bamboo_Hat_Brown_5: -5913963415076007955
+      Accessory_Bamboo_Hat_Brown_6: 7038088096132052917
+      Accessory_Bamboo_Hat_Brown_7: 6186187845273671491
+      Accessory_Bamboo_Hat_Brown_8: -2281562621916445510
+      Accessory_Bamboo_Hat_Brown_9: 2640496436026161758
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

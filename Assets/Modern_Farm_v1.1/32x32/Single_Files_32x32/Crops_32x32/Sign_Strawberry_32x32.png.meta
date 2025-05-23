@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sign_Strawberry_32x32_0: 6539328973538524677
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

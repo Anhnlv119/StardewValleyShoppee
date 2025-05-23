@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crate_Dark_Brown_Peaches_32x32_0: 9146296010174888225
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

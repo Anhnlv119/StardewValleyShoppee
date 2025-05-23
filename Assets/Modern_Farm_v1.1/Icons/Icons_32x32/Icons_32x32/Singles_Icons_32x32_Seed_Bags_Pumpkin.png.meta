@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Singles_Icons_32x32_Seed_Bags_Pumpkin_0: -5288360565774448368
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

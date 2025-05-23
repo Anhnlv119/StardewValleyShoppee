@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Food_Watermelon_0: -295560595545671002
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

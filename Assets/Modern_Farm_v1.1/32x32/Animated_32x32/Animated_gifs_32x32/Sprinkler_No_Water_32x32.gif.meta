@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sprinkler_No_Water_32x32_0: -4649657098843094572
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

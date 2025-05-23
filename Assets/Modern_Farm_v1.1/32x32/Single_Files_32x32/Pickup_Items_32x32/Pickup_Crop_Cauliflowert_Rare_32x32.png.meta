@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pickup_Crop_Cauliflowert_Rare_32x32_0: 9108637423257111173
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

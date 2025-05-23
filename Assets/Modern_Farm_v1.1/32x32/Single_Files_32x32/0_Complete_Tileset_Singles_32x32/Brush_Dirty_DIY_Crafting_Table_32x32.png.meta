@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Brush_Dirty_DIY_Crafting_Table_32x32_0: 8441561576062610960
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

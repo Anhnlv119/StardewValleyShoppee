@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Singles_Icons_32x32_Resources_Whool_Yellow_0: 173442264327363915
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

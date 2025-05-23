@@ -1597,7 +1597,66 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tileset_Crops_Crates_0: -1637611894844815511
+      Tileset_Crops_Crates_1: 5063389720230853158
+      Tileset_Crops_Crates_10: -3709315667104132289
+      Tileset_Crops_Crates_11: 7552444818875401754
+      Tileset_Crops_Crates_12: 420232604508718627
+      Tileset_Crops_Crates_13: -2397223199588139371
+      Tileset_Crops_Crates_14: -8515348594181113251
+      Tileset_Crops_Crates_15: -7382916085806802371
+      Tileset_Crops_Crates_16: -9191952219086798011
+      Tileset_Crops_Crates_17: 4451400313728193867
+      Tileset_Crops_Crates_18: -5094996446469099483
+      Tileset_Crops_Crates_19: -4852036904079069757
+      Tileset_Crops_Crates_2: -1587618813421116814
+      Tileset_Crops_Crates_20: 5207113024467167540
+      Tileset_Crops_Crates_21: -7551348838029077777
+      Tileset_Crops_Crates_22: -83471047785090714
+      Tileset_Crops_Crates_23: -7684441307662781163
+      Tileset_Crops_Crates_24: 3435108635101704042
+      Tileset_Crops_Crates_25: 97264183027515957
+      Tileset_Crops_Crates_26: -7061898965973935583
+      Tileset_Crops_Crates_27: -8794254678106071559
+      Tileset_Crops_Crates_28: -7669425211372897366
+      Tileset_Crops_Crates_29: -8555766072050105415
+      Tileset_Crops_Crates_3: 5649717169418713899
+      Tileset_Crops_Crates_30: 764451090385624858
+      Tileset_Crops_Crates_31: -5263779212554712645
+      Tileset_Crops_Crates_32: -3509541769026330345
+      Tileset_Crops_Crates_33: -1020712978600485805
+      Tileset_Crops_Crates_34: 7149686225378518193
+      Tileset_Crops_Crates_35: -3917634228901405109
+      Tileset_Crops_Crates_36: 8922486271921215650
+      Tileset_Crops_Crates_37: -1408259471792135584
+      Tileset_Crops_Crates_38: -2117131895877742335
+      Tileset_Crops_Crates_39: -670273949360397669
+      Tileset_Crops_Crates_4: -1378711653954944217
+      Tileset_Crops_Crates_40: 5777162672785828177
+      Tileset_Crops_Crates_41: 7749659335101594431
+      Tileset_Crops_Crates_42: 5857681693796205145
+      Tileset_Crops_Crates_43: -2299315628555410894
+      Tileset_Crops_Crates_44: -5810258768009174417
+      Tileset_Crops_Crates_45: -9090940386855879015
+      Tileset_Crops_Crates_46: 8070475153140974404
+      Tileset_Crops_Crates_47: -967044971138419551
+      Tileset_Crops_Crates_48: 5147805334091839837
+      Tileset_Crops_Crates_49: -7128471234769576412
+      Tileset_Crops_Crates_5: 186941468618580421
+      Tileset_Crops_Crates_50: -6594822721382304788
+      Tileset_Crops_Crates_51: 2752923686988285490
+      Tileset_Crops_Crates_52: 4546399430221720963
+      Tileset_Crops_Crates_53: 3931124285152494440
+      Tileset_Crops_Crates_54: -4932036627297365363
+      Tileset_Crops_Crates_55: -3966016627020583544
+      Tileset_Crops_Crates_56: 7470212172421386562
+      Tileset_Crops_Crates_57: 5905142768984405753
+      Tileset_Crops_Crates_58: 6322076228926452010
+      Tileset_Crops_Crates_6: -7582449113961077902
+      Tileset_Crops_Crates_7: -8003577332941376534
+      Tileset_Crops_Crates_8: 5715085270150479154
+      Tileset_Crops_Crates_9: -2326287393666595597
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

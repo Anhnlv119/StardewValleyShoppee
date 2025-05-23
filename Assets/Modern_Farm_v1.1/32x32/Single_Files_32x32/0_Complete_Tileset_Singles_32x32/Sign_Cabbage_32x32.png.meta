@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sign_Cabbage_32x32_0: -8359869879211293934
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

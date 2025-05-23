@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Corn_Fruitless_Dark_Brown_Basket_32x32_0: -9193507984852743799
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

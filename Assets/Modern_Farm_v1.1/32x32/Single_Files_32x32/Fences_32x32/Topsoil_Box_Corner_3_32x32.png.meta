@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Topsoil_Box_Corner_3_32x32_0: -429061913058295364
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

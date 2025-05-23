@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Watermelon_Fruitless_32x32_0: 4333323659697678412
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

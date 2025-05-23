@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Watermelon_Brown_Basket_32x32_0: 9171928804999157785
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

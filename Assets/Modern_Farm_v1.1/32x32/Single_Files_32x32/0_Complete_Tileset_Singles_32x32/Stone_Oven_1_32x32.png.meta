@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stone_Oven_1_32x32_0: 6437165119102761416
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

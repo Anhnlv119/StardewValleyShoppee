@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Topsoil_Arable_Big_Modular_Middle_Left_32x32_0: 3386952105694421868
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

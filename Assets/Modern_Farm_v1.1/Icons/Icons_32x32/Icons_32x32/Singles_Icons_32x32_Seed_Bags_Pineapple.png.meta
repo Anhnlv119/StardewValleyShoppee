@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Singles_Icons_32x32_Seed_Bags_Pineapple_0: 2400948872775519057
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

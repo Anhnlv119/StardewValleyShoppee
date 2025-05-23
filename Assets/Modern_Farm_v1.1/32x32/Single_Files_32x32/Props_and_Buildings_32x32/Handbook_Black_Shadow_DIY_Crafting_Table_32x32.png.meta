@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Handbook_Black_Shadow_DIY_Crafting_Table_32x32_0: 8236163003750543218
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

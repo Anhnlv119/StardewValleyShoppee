@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Trees_Birch_Yellow_Small_Shake_32x32_0: 3421518029516993277
+      Trees_Birch_Yellow_Small_Shake_32x32_1: -7480261354138177372
+      Trees_Birch_Yellow_Small_Shake_32x32_2: 3375133861532281696
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Berry_Stage_1_32x32_0: 6472827324824961126
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

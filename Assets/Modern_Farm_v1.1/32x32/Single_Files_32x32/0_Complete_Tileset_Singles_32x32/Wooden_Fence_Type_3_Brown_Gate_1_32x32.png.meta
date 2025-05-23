@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wooden_Fence_Type_3_Brown_Gate_1_32x32_0: 7007150511563171035
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

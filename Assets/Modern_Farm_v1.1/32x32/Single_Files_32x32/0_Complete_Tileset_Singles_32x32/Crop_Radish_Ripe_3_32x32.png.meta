@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Radish_Ripe_3_32x32_0: 9022585915941974138
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

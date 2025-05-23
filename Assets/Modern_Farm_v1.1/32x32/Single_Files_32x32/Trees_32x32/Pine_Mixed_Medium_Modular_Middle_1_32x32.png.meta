@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pine_Mixed_Medium_Modular_Middle_1_32x32_0: 412277123653882492
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

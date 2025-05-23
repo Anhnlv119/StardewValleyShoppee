@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pickup_Fruit_Banana_32x32_0: -9019437605133700544
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

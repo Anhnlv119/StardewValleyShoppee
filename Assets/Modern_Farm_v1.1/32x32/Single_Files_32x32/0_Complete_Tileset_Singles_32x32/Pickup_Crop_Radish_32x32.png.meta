@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pickup_Crop_Radish_32x32_0: 3054744747788269487
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

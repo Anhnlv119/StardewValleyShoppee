@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sign_Prickly_Pear_32x32_0: 1417266598248592131
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Seed_Prickly_Pear_32x32_0: 7634448919457734068
+      Seed_Prickly_Pear_32x32_1: 5768089782830800103
+      Seed_Prickly_Pear_32x32_2: 650390150861958678
+      Seed_Prickly_Pear_32x32_3: 2835180204095042579
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$MV_Piglet_1_0': 5434773747604776479
+      '!$MV_Piglet_1_1': -2294016921716130444
+      '!$MV_Piglet_1_10': -4025974873622605758
+      '!$MV_Piglet_1_11': 4283661747123159060
+      '!$MV_Piglet_1_2': 28429241334409175
+      '!$MV_Piglet_1_3': 4845496204744541086
+      '!$MV_Piglet_1_4': -7204936218775754280
+      '!$MV_Piglet_1_5': 7315300030869827373
+      '!$MV_Piglet_1_6': 2164069790334195317
+      '!$MV_Piglet_1_7': -8109064140841445844
+      '!$MV_Piglet_1_8': 4178081044430895814
+      '!$MV_Piglet_1_9': 2855341687540768745
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

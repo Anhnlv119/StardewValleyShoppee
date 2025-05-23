@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$MV_Farmer_1_Chop_0': -6240122410694287666
+      '!$MV_Farmer_1_Chop_1': -1449777694963336472
+      '!$MV_Farmer_1_Chop_10': 4413567500777698806
+      '!$MV_Farmer_1_Chop_11': -2919938922354759076
+      '!$MV_Farmer_1_Chop_2': 600263873739917184
+      '!$MV_Farmer_1_Chop_3': 6473216000923543822
+      '!$MV_Farmer_1_Chop_4': -5051478027141129022
+      '!$MV_Farmer_1_Chop_5': 2598150729512965290
+      '!$MV_Farmer_1_Chop_6': 48487656738261922
+      '!$MV_Farmer_1_Chop_7': 7315482335754136422
+      '!$MV_Farmer_1_Chop_8': 6455486448026845414
+      '!$MV_Farmer_1_Chop_9': -615347534557248224
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

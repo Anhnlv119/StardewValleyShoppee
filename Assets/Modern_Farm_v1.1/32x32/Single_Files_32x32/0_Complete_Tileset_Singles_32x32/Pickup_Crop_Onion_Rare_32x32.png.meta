@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pickup_Crop_Onion_Rare_32x32_0: 1271239907981603332
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

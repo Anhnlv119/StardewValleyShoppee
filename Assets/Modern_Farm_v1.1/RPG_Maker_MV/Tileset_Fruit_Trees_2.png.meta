@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tileset_Fruit_Trees_2_0: -3251540490582540100
+      Tileset_Fruit_Trees_2_1: -6351039040487575730
+      Tileset_Fruit_Trees_2_10: 4647480983817432922
+      Tileset_Fruit_Trees_2_11: 4292236050921378510
+      Tileset_Fruit_Trees_2_12: -971167219823520243
+      Tileset_Fruit_Trees_2_13: 8191837638048515710
+      Tileset_Fruit_Trees_2_14: 8806780921592624112
+      Tileset_Fruit_Trees_2_15: 1534154389354345135
+      Tileset_Fruit_Trees_2_16: 832061926557553778
+      Tileset_Fruit_Trees_2_17: -8819708705410036495
+      Tileset_Fruit_Trees_2_18: -5783686462381947448
+      Tileset_Fruit_Trees_2_19: 5344388748068214745
+      Tileset_Fruit_Trees_2_2: -2640630892907692
+      Tileset_Fruit_Trees_2_3: 5415321723841250892
+      Tileset_Fruit_Trees_2_4: 1315642418486815309
+      Tileset_Fruit_Trees_2_5: -2601282090473177384
+      Tileset_Fruit_Trees_2_6: 4526311086795924058
+      Tileset_Fruit_Trees_2_7: -7345102986103062415
+      Tileset_Fruit_Trees_2_8: 8288057050466160024
+      Tileset_Fruit_Trees_2_9: 5812455434132711318
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

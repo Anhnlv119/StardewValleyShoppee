@@ -1122,7 +1122,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Body_Dig_Animation_32x32_0: -2392772318638155162
+      Body_Dig_Animation_32x32_1: -4764436941192652187
+      Body_Dig_Animation_32x32_10: -4501492454458587652
+      Body_Dig_Animation_32x32_11: -8782968037866439119
+      Body_Dig_Animation_32x32_12: 6347934740908015879
+      Body_Dig_Animation_32x32_13: -5085818708148031713
+      Body_Dig_Animation_32x32_14: -2749921483671899824
+      Body_Dig_Animation_32x32_15: 239116864317357914
+      Body_Dig_Animation_32x32_16: -2833657911380856417
+      Body_Dig_Animation_32x32_17: 4616311017667132309
+      Body_Dig_Animation_32x32_18: 7880404953455624155
+      Body_Dig_Animation_32x32_19: 5371848045882421228
+      Body_Dig_Animation_32x32_2: 707027797049262034
+      Body_Dig_Animation_32x32_20: -5759987291940564527
+      Body_Dig_Animation_32x32_21: -5834476413842214372
+      Body_Dig_Animation_32x32_22: -4073503277798355166
+      Body_Dig_Animation_32x32_23: -8766733557854949612
+      Body_Dig_Animation_32x32_24: 3123195356924147559
+      Body_Dig_Animation_32x32_25: -1667025326654789178
+      Body_Dig_Animation_32x32_26: -6888392772868379738
+      Body_Dig_Animation_32x32_27: -2853928505255701002
+      Body_Dig_Animation_32x32_28: -1143987496846811129
+      Body_Dig_Animation_32x32_29: -8439567916520812557
+      Body_Dig_Animation_32x32_3: 4938759286365404452
+      Body_Dig_Animation_32x32_30: -1465090880538416011
+      Body_Dig_Animation_32x32_31: -6501694171649023179
+      Body_Dig_Animation_32x32_32: -5127343835499556059
+      Body_Dig_Animation_32x32_33: 1123435786804955147
+      Body_Dig_Animation_32x32_34: -8414024114358759355
+      Body_Dig_Animation_32x32_35: -2909989868875943264
+      Body_Dig_Animation_32x32_36: 8833304695711490056
+      Body_Dig_Animation_32x32_37: 1143824762006754824
+      Body_Dig_Animation_32x32_38: 7143951020595994985
+      Body_Dig_Animation_32x32_39: -7042643337401370372
+      Body_Dig_Animation_32x32_4: 5747568750533112155
+      Body_Dig_Animation_32x32_5: 293975871029718649
+      Body_Dig_Animation_32x32_6: 6386879805107089087
+      Body_Dig_Animation_32x32_7: -6990087562759386663
+      Body_Dig_Animation_32x32_8: 4290559088109189667
+      Body_Dig_Animation_32x32_9: -802251112114562021
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

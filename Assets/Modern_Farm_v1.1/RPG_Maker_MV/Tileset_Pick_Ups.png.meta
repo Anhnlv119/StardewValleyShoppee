@@ -1472,7 +1472,61 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tileset_Pick_Ups_0: 5750788413444654141
+      Tileset_Pick_Ups_1: 2640354068457386983
+      Tileset_Pick_Ups_10: 6078932267318518605
+      Tileset_Pick_Ups_11: 6701701078422310625
+      Tileset_Pick_Ups_12: 2018474529886719441
+      Tileset_Pick_Ups_13: -601174664531914193
+      Tileset_Pick_Ups_14: -8832496697183063339
+      Tileset_Pick_Ups_15: 5000464487063079649
+      Tileset_Pick_Ups_16: 193616405729323563
+      Tileset_Pick_Ups_17: 8776550951475956875
+      Tileset_Pick_Ups_18: -1019123196343834400
+      Tileset_Pick_Ups_19: 4057452823608388682
+      Tileset_Pick_Ups_2: -2829453644128723922
+      Tileset_Pick_Ups_20: -1487139356078047798
+      Tileset_Pick_Ups_21: -4515121878914336828
+      Tileset_Pick_Ups_22: -4541577305775483320
+      Tileset_Pick_Ups_23: -4692068501049971879
+      Tileset_Pick_Ups_24: -7256444122488037730
+      Tileset_Pick_Ups_25: 1509194623549538065
+      Tileset_Pick_Ups_26: 8661997026485800675
+      Tileset_Pick_Ups_27: 8633118349411338821
+      Tileset_Pick_Ups_28: 1289404451446708932
+      Tileset_Pick_Ups_29: 7184395281371746225
+      Tileset_Pick_Ups_3: -3419853051258761952
+      Tileset_Pick_Ups_30: -2712945663465444051
+      Tileset_Pick_Ups_31: -5139496188623660012
+      Tileset_Pick_Ups_32: -5497106811845581311
+      Tileset_Pick_Ups_33: 6088766290396283617
+      Tileset_Pick_Ups_34: 7194920645960105444
+      Tileset_Pick_Ups_35: 959120795872542622
+      Tileset_Pick_Ups_36: -4972390661719741898
+      Tileset_Pick_Ups_37: 6144980637337857048
+      Tileset_Pick_Ups_38: -5879434460439605732
+      Tileset_Pick_Ups_39: 8198247104209148119
+      Tileset_Pick_Ups_4: -7098819347134614534
+      Tileset_Pick_Ups_40: -5312817337025046013
+      Tileset_Pick_Ups_41: 3276188397928277305
+      Tileset_Pick_Ups_42: -8667769706376628899
+      Tileset_Pick_Ups_43: 7820857025720198861
+      Tileset_Pick_Ups_44: 1421607949312280786
+      Tileset_Pick_Ups_45: -2670829019764244477
+      Tileset_Pick_Ups_46: -2844219297767693599
+      Tileset_Pick_Ups_47: 5660474788171864032
+      Tileset_Pick_Ups_48: 255776544677907082
+      Tileset_Pick_Ups_49: -13859414659038153
+      Tileset_Pick_Ups_5: -162079399015359653
+      Tileset_Pick_Ups_50: 5049561646501439697
+      Tileset_Pick_Ups_51: 3442278660565034590
+      Tileset_Pick_Ups_52: -923589779913863782
+      Tileset_Pick_Ups_53: -7585091985008117298
+      Tileset_Pick_Ups_6: -3101816587600375691
+      Tileset_Pick_Ups_7: 9096608554945247855
+      Tileset_Pick_Ups_8: 4789902166465201866
+      Tileset_Pick_Ups_9: 5058413449778619908
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

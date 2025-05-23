@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sign_Grapes_32x32_0: 458623469590322309
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
