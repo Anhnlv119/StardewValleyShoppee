@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Pineapple_Sprout_32x32_0: 1910620770567973441
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

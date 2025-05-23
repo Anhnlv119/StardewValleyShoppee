@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sign_Basenji_32x32_0: -8995461920463290711
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

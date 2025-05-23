@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rod_Rope_Vertical_2_Right_32x32_0: 8854017757052589850
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stool_Wood_2_32x32_0: 5909943252822295365
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

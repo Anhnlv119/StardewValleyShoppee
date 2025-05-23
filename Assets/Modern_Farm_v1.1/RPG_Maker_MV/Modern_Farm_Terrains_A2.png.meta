@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Modern_Farm_Terrains_A2_0: 8419527073692451101
+      Modern_Farm_Terrains_A2_1: -8692829039197819585
+      Modern_Farm_Terrains_A2_2: -7800908929659030678
+      Modern_Farm_Terrains_A2_3: 6348304034809321373
+      Modern_Farm_Terrains_A2_4: 8347308105199585245
+      Modern_Farm_Terrains_A2_5: 4008345487529631220
+      Modern_Farm_Terrains_A2_6: -2083876665162480578
+      Modern_Farm_Terrains_A2_7: 6905478352473612855
+      Modern_Farm_Terrains_A2_8: 1390996700848565390
+      Modern_Farm_Terrains_A2_9: 7019486788483606688
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

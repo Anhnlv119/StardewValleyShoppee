@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Seed_Onion_32x32_0: 2720669997725989709
+      Seed_Onion_32x32_1: -1620705405816033953
+      Seed_Onion_32x32_2: 7816567774419194948
+      Seed_Onion_32x32_3: -8627105069516337549
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

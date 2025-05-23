@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wood_Box_Empty_Woodwork_Crafting_Table_32x32_0: 1231381465536290859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

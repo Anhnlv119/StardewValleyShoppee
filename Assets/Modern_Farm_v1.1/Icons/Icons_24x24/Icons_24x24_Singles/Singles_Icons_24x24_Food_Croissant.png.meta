@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Singles_Icons_24x24_Food_Croissant_0: -8745300051122600490
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

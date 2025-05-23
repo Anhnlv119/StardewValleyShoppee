@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Seed_Bags_turnip_0: 4104317397997891682
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

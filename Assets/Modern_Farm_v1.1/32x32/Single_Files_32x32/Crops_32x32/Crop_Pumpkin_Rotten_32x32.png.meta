@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Pumpkin_Rotten_32x32_0: -171858823086498602
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

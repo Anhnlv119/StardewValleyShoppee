@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sewing_Machine_Tailor_Crafting_Machine_32x32_0: -8527886799093273039
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

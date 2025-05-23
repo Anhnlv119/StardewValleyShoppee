@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Seed_Chili_Pepper_32x32_0: -4077384889960251848
+      Seed_Chili_Pepper_32x32_1: -3459801969403605477
+      Seed_Chili_Pepper_32x32_2: 7286468062948660949
+      Seed_Chili_Pepper_32x32_3: 4788255584652608514
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Singles_Icons_24x24_Food_Raw_Steak_0: -6211258130302043026
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

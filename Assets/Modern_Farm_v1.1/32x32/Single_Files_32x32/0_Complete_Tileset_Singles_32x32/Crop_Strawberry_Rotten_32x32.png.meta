@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Strawberry_Rotten_32x32_0: -3649547106240126824
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

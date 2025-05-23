@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pine_Oak_Mixed_Small_Modular_Right_32x32_0: 3068308489299625583
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

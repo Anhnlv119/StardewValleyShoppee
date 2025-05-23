@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sign_Pumpkin_32x32_0: -4510090278401784369
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

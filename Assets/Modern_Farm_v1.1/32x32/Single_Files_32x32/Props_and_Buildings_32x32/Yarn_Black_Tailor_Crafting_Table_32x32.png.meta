@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Yarn_Black_Tailor_Crafting_Table_32x32_0: -3372904268895286348
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

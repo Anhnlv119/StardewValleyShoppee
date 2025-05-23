@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sign_Radish_32x32_0: 7930144281749755190
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

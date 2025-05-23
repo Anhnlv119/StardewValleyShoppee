@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fruit_Sign_Lemon_32x32_0: 4247971476258310363
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

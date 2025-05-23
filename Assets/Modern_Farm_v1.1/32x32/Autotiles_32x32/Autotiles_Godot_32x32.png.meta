@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Autotiles_Godot_32x32_0: 3045217152461860307
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

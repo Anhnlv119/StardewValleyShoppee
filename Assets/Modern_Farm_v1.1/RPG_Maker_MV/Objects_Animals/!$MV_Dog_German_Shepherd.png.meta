@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$MV_Dog_German_Shepherd_0': -6685046578406757197
+      '!$MV_Dog_German_Shepherd_1': -8900480148751774167
+      '!$MV_Dog_German_Shepherd_10': 3152096618192116360
+      '!$MV_Dog_German_Shepherd_11': 2879588937943021322
+      '!$MV_Dog_German_Shepherd_2': 8052553483027090365
+      '!$MV_Dog_German_Shepherd_3': -6199125087959631453
+      '!$MV_Dog_German_Shepherd_4': 4047425841902120274
+      '!$MV_Dog_German_Shepherd_5': 7984969603975405435
+      '!$MV_Dog_German_Shepherd_6': 2361844330656166987
+      '!$MV_Dog_German_Shepherd_7': -406075938154334231
+      '!$MV_Dog_German_Shepherd_8': 1389011266737698632
+      '!$MV_Dog_German_Shepherd_9': -3501982749381453206
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Carrot_Small_Basket_32x32_0: 3928711352206939168
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

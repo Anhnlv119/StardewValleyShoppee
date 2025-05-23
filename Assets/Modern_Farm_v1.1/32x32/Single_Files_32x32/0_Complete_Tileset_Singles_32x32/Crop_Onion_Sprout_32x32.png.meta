@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Onion_Sprout_32x32_0: -1218463188304728978
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

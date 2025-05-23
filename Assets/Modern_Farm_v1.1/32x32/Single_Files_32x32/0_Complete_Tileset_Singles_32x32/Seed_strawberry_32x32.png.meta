@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Seed_strawberry_32x32_0: -1022752750193768022
+      Seed_strawberry_32x32_1: 7060813345119775503
+      Seed_strawberry_32x32_2: 7857508256478531836
+      Seed_strawberry_32x32_3: -8401983166581470276
+      Seed_strawberry_32x32_4: 8178576935562869621
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

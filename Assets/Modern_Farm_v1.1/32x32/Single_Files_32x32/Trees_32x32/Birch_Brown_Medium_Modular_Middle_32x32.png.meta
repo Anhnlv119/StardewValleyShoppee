@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Birch_Brown_Medium_Modular_Middle_32x32_0: -1341813993432388081
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

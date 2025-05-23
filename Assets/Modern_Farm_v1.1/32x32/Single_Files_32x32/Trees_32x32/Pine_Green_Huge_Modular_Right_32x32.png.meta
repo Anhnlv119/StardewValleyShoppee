@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pine_Green_Huge_Modular_Right_32x32_0: -4674625401615082550
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

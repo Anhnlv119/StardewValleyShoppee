@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pickup_Crop_Watermelon_32x32_0: 2582778769725352497
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

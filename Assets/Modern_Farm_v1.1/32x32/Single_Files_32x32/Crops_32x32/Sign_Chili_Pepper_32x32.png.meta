@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sign_Chili_Pepper_32x32_0: -4889308417681854015
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

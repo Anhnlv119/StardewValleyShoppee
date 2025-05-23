@@ -1122,7 +1122,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stone_Oven_Smoke_32x32_0: 6180219024547565250
+      Stone_Oven_Smoke_32x32_1: 1003677233270178451
+      Stone_Oven_Smoke_32x32_10: -2650770333743215846
+      Stone_Oven_Smoke_32x32_11: 3924501250622280901
+      Stone_Oven_Smoke_32x32_12: -8990493136107825053
+      Stone_Oven_Smoke_32x32_13: 2930946456693333380
+      Stone_Oven_Smoke_32x32_14: 674904536939769494
+      Stone_Oven_Smoke_32x32_15: 1460955619331749508
+      Stone_Oven_Smoke_32x32_16: 1516984705593679517
+      Stone_Oven_Smoke_32x32_17: 6735531852092428167
+      Stone_Oven_Smoke_32x32_18: 4026410710323848581
+      Stone_Oven_Smoke_32x32_19: -3869022076282042788
+      Stone_Oven_Smoke_32x32_2: 6964305041129479913
+      Stone_Oven_Smoke_32x32_20: -3498676207538075509
+      Stone_Oven_Smoke_32x32_21: 6456264875678615649
+      Stone_Oven_Smoke_32x32_22: 1628670854573837881
+      Stone_Oven_Smoke_32x32_23: 153598495571525409
+      Stone_Oven_Smoke_32x32_24: 5978649237047667470
+      Stone_Oven_Smoke_32x32_25: 8835550633382418527
+      Stone_Oven_Smoke_32x32_26: -3584723740755344885
+      Stone_Oven_Smoke_32x32_27: 569575005046909254
+      Stone_Oven_Smoke_32x32_28: -1832759036144264638
+      Stone_Oven_Smoke_32x32_29: 3113153522953281722
+      Stone_Oven_Smoke_32x32_3: 4733936726453898456
+      Stone_Oven_Smoke_32x32_30: 7119618568338999532
+      Stone_Oven_Smoke_32x32_31: 4640108071155257928
+      Stone_Oven_Smoke_32x32_32: -6374662270528223622
+      Stone_Oven_Smoke_32x32_33: -3517904319641522688
+      Stone_Oven_Smoke_32x32_34: 2631993319859702009
+      Stone_Oven_Smoke_32x32_35: -9165169387341133470
+      Stone_Oven_Smoke_32x32_36: -162798250294089076
+      Stone_Oven_Smoke_32x32_37: 1621372098793763054
+      Stone_Oven_Smoke_32x32_38: 3656634325135108577
+      Stone_Oven_Smoke_32x32_39: 807422405514139991
+      Stone_Oven_Smoke_32x32_4: -1572369018621270843
+      Stone_Oven_Smoke_32x32_5: 7431019668161107069
+      Stone_Oven_Smoke_32x32_6: -8965735342047505007
+      Stone_Oven_Smoke_32x32_7: -6541122451655262278
+      Stone_Oven_Smoke_32x32_8: 5965850318906504265
+      Stone_Oven_Smoke_32x32_9: -988232992350268911
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$MV_Donkey_3_0': 2145279079604838371
+      '!$MV_Donkey_3_1': -5816497857659337490
+      '!$MV_Donkey_3_10': 5507978564523956724
+      '!$MV_Donkey_3_11': -1579505768140486930
+      '!$MV_Donkey_3_2': 6112889194703090936
+      '!$MV_Donkey_3_3': 4661740106680527257
+      '!$MV_Donkey_3_4': -6825233930764870521
+      '!$MV_Donkey_3_5': 7622674071994545525
+      '!$MV_Donkey_3_6': -7952976418090711234
+      '!$MV_Donkey_3_7': -5126882399304529327
+      '!$MV_Donkey_3_8': 5682465095975387313
+      '!$MV_Donkey_3_9': 7355758885235515691
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

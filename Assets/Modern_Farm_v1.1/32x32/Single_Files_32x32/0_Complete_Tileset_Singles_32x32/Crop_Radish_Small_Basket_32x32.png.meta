@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Radish_Small_Basket_32x32_0: -1274662740799341986
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

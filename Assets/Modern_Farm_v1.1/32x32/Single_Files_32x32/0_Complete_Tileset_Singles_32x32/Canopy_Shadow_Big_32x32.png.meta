@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Canopy_Shadow_Big_32x32_0: -8357512828198934761
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

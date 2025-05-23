@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Crops_Cauliflower_0: -8100606248928703532
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

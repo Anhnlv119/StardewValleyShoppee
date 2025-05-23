@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Raw_Bale_Small_32x32_0: -1506540876074226935
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

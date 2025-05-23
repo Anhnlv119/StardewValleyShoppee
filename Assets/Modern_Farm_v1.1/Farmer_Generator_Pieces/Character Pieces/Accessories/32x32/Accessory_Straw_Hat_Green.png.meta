@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Accessory_Straw_Hat_Green_0: -6345431272903873713
+      Accessory_Straw_Hat_Green_1: -4906189893451469952
+      Accessory_Straw_Hat_Green_10: 5731450332433711174
+      Accessory_Straw_Hat_Green_2: -408611943153480496
+      Accessory_Straw_Hat_Green_3: -5209128014824498384
+      Accessory_Straw_Hat_Green_4: 6322342141553463457
+      Accessory_Straw_Hat_Green_5: 4734498688383897393
+      Accessory_Straw_Hat_Green_6: 1620347470155806709
+      Accessory_Straw_Hat_Green_7: 6662479975456513918
+      Accessory_Straw_Hat_Green_8: -8139049921739849152
+      Accessory_Straw_Hat_Green_9: -7649839883720605513
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

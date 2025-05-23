@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Turnip_Ripe_Fruitless_32x32_0: -2879172412309828045
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

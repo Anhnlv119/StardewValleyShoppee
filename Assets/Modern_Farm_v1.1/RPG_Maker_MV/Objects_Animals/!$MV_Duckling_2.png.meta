@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$MV_Duckling_2_0': 8390140033622751861
+      '!$MV_Duckling_2_1': 685578335362422501
+      '!$MV_Duckling_2_10': 232468664943253308
+      '!$MV_Duckling_2_11': -8653650390257419248
+      '!$MV_Duckling_2_2': 8657946069417618386
+      '!$MV_Duckling_2_3': -4624910278984419330
+      '!$MV_Duckling_2_4': 2581704810252809727
+      '!$MV_Duckling_2_5': -8568672351234837479
+      '!$MV_Duckling_2_6': -3522730126513051215
+      '!$MV_Duckling_2_7': 6174135944612602421
+      '!$MV_Duckling_2_8': -5550666614132310718
+      '!$MV_Duckling_2_9': 9148281414859033225
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

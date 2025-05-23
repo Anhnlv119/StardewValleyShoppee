@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Turnip_Brown_Basket_32x32_0: 3370376233946463136
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

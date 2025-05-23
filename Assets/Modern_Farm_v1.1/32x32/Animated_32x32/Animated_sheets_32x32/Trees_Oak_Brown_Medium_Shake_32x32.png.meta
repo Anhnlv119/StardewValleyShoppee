@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Trees_Oak_Brown_Medium_Shake_32x32_0: 746814729543319256
+      Trees_Oak_Brown_Medium_Shake_32x32_1: -3818401598006493867
+      Trees_Oak_Brown_Medium_Shake_32x32_2: -3588487269226973242
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

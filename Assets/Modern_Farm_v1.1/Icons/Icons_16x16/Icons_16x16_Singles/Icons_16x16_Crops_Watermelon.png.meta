@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Crops_Watermelon_0: -153828783539143579
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Singles_Icons_32x32_Crops_Apple_0: 3101826194262839969
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

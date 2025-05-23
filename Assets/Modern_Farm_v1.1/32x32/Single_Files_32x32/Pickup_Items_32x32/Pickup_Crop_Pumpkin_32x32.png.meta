@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pickup_Crop_Pumpkin_32x32_0: -5166222109056902359
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

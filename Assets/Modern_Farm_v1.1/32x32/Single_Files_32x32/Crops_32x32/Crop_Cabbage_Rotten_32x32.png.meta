@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Cabbage_Rotten_32x32_0: -3999664506567861740
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

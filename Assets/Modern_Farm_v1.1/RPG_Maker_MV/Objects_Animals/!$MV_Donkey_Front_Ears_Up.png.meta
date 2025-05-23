@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$MV_Donkey_Front_Ears_Up_0': -3464977081410364498
+      '!$MV_Donkey_Front_Ears_Up_1': -8529243717589517562
+      '!$MV_Donkey_Front_Ears_Up_10': -6925243096327778630
+      '!$MV_Donkey_Front_Ears_Up_11': 1076895711830037544
+      '!$MV_Donkey_Front_Ears_Up_2': 4450043742291388971
+      '!$MV_Donkey_Front_Ears_Up_3': 7753834600685596436
+      '!$MV_Donkey_Front_Ears_Up_4': 7833426246007528432
+      '!$MV_Donkey_Front_Ears_Up_5': 5563340427729118914
+      '!$MV_Donkey_Front_Ears_Up_6': -3168511525282116078
+      '!$MV_Donkey_Front_Ears_Up_7': -3002608513743260242
+      '!$MV_Donkey_Front_Ears_Up_8': -6214026577478211261
+      '!$MV_Donkey_Front_Ears_Up_9': 102092887067201906
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

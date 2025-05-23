@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Prickly_Pear_Small_Basket_32x32_0: 1029763520814019806
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Weathercock_Roof_Farmer_House_32x32_0: -7096256558693400694
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

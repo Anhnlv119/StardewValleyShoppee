@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rock_Big_Blue_Stone_32x32_0: -1794625289381392775
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

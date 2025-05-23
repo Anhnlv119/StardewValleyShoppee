@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Crops_Zucchini_0: 9110429207942624104
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

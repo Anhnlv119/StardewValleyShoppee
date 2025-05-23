@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$MV_Rooster_5_0': -6451035495439076665
+      '!$MV_Rooster_5_1': 2369039075187176926
+      '!$MV_Rooster_5_10': 1193562359403437367
+      '!$MV_Rooster_5_11': 8493909005614227868
+      '!$MV_Rooster_5_2': -8932663284965925349
+      '!$MV_Rooster_5_3': -1197786016715606462
+      '!$MV_Rooster_5_4': -9217965383921570301
+      '!$MV_Rooster_5_5': -5790423480291304955
+      '!$MV_Rooster_5_6': -4371126210328076495
+      '!$MV_Rooster_5_7': -6756897467719625179
+      '!$MV_Rooster_5_8': -2881900727065124103
+      '!$MV_Rooster_5_9': 5381606172925479795
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

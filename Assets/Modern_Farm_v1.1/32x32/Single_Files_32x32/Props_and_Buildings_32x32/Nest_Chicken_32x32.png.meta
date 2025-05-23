@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Nest_Chicken_32x32_0: -1313626375723592598
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

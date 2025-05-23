@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Seed_Bags_Carrot_0: 358253754297425824
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

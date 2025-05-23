@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Tools_Shovel_0: 6217354782229006697
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

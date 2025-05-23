@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$MV_Chicken_3_0': -7681098795090877031
+      '!$MV_Chicken_3_1': -969184951665940700
+      '!$MV_Chicken_3_10': 3216317649080384767
+      '!$MV_Chicken_3_11': 6264800053301623251
+      '!$MV_Chicken_3_2': 7927806949387357059
+      '!$MV_Chicken_3_3': -5414552035281702117
+      '!$MV_Chicken_3_4': -2779929376893985883
+      '!$MV_Chicken_3_5': -1876798877472697342
+      '!$MV_Chicken_3_6': -1424312486577421511
+      '!$MV_Chicken_3_7': 2647460584458467503
+      '!$MV_Chicken_3_8': 1759056967461500949
+      '!$MV_Chicken_3_9': 825264670105168795
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

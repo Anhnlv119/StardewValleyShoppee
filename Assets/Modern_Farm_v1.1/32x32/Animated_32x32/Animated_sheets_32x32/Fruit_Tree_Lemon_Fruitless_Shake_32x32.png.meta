@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fruit_Tree_Lemon_Fruitless_Shake_32x32_0: -4367064733565683212
+      Fruit_Tree_Lemon_Fruitless_Shake_32x32_1: -3013583638635700771
+      Fruit_Tree_Lemon_Fruitless_Shake_32x32_2: 5258822221888730108
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

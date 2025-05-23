@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wooden_Shovel_2_Stone_Oven_32x32_0: -7720090406513360968
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

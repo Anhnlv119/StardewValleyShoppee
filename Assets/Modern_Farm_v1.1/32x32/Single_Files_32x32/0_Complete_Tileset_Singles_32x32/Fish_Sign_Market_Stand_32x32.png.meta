@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fish_Sign_Market_Stand_32x32_0: -6194040645690821799
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

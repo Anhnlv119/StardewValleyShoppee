@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rock_Medium_Silver_Stone_32x32_0: 8069560391619207791
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

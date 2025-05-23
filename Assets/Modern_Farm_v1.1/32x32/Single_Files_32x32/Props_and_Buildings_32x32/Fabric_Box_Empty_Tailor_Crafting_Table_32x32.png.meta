@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fabric_Box_Empty_Tailor_Crafting_Table_32x32_0: 6366480809586707411
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

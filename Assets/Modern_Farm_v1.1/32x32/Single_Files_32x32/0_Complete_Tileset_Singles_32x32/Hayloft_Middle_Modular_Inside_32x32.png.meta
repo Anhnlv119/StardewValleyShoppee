@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hayloft_Middle_Modular_Inside_32x32_0: -6823676372421728368
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

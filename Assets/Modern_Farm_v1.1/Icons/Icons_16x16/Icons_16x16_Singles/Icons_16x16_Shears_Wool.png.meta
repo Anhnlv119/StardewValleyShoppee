@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Shears_Wool_0: 7391337301333769131
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

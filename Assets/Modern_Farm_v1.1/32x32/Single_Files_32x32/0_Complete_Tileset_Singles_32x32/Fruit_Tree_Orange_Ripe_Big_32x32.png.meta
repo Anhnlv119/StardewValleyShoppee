@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fruit_Tree_Orange_Ripe_Big_32x32_0: -771099848190339033
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

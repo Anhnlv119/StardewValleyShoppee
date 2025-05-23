@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$MV_Cow_Big_0': -2062606777789576010
+      '!$MV_Cow_Big_1': -9034671653861276523
+      '!$MV_Cow_Big_10': 5449135812499792139
+      '!$MV_Cow_Big_11': 7705051675828684683
+      '!$MV_Cow_Big_2': -1629064688640378950
+      '!$MV_Cow_Big_3': -8442137374419332701
+      '!$MV_Cow_Big_4': 755696985720656659
+      '!$MV_Cow_Big_5': 7639412950414255478
+      '!$MV_Cow_Big_6': -5471659027384435848
+      '!$MV_Cow_Big_7': -4776552783303644935
+      '!$MV_Cow_Big_8': -5778560355933952466
+      '!$MV_Cow_Big_9': -2534836823693806634
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

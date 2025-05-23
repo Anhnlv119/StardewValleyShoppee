@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$MV_Dog_Basenji_0': 2319175966435885283
+      '!$MV_Dog_Basenji_1': -3148096862775901370
+      '!$MV_Dog_Basenji_10': 7671582270926392762
+      '!$MV_Dog_Basenji_11': -3044292914790125642
+      '!$MV_Dog_Basenji_2': 2845185007894729840
+      '!$MV_Dog_Basenji_3': 4349846477856748654
+      '!$MV_Dog_Basenji_4': 391045517137695485
+      '!$MV_Dog_Basenji_5': -6283287823065285486
+      '!$MV_Dog_Basenji_6': 4948354593936109242
+      '!$MV_Dog_Basenji_7': -8726382546579035891
+      '!$MV_Dog_Basenji_8': 8717697056476031006
+      '!$MV_Dog_Basenji_9': 7590849087876269128
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

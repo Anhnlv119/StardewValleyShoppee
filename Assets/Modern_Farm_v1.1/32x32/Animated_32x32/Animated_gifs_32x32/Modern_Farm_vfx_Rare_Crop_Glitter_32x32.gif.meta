@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_0: -8238319218299321447
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_1: 8033539246490277512
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

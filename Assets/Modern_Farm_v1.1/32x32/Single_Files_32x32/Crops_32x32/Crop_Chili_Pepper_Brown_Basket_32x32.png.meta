@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Chili_Pepper_Brown_Basket_32x32_0: -4670863179600018245
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

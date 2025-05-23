@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sign_German_Shepherd_32x32_0: 1630215325743254865
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

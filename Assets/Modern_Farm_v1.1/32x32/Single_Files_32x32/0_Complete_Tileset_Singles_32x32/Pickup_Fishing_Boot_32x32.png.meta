@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pickup_Fishing_Boot_32x32_0: -7172192662778662224
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

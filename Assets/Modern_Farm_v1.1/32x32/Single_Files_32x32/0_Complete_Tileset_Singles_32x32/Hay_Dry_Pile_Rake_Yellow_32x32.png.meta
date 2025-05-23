@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hay_Dry_Pile_Rake_Yellow_32x32_0: 490281348859784202
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

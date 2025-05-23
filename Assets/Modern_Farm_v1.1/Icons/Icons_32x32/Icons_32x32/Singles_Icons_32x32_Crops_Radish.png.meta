@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Singles_Icons_32x32_Crops_Radish_0: 9177356890338128149
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

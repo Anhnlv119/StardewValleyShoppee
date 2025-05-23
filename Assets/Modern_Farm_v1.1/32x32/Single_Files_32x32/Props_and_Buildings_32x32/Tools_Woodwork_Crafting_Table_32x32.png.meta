@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tools_Woodwork_Crafting_Table_32x32_0: 3258601023594476202
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

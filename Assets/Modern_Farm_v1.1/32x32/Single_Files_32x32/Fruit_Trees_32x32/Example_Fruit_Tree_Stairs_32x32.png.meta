@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Example_Fruit_Tree_Stairs_32x32_0: -1413354686594529831
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

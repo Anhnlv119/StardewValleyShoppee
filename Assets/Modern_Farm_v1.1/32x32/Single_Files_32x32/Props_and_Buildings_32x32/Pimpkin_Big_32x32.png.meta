@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pimpkin_Big_32x32_0: -271571729246980277
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

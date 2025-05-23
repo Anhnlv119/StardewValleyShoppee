@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Cauliflower_Ripe_32x32_0: 7971374476459940594
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

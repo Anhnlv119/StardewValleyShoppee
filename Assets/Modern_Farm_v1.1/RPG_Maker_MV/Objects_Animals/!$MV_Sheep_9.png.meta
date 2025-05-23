@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$MV_Sheep_9_0': -77729633198819393
+      '!$MV_Sheep_9_1': -652738700358759077
+      '!$MV_Sheep_9_10': -8577156863031989886
+      '!$MV_Sheep_9_11': -5782069212945686473
+      '!$MV_Sheep_9_2': -81686054108297859
+      '!$MV_Sheep_9_3': 5008957038855077944
+      '!$MV_Sheep_9_4': -2168514317853602427
+      '!$MV_Sheep_9_5': -6079734834559474326
+      '!$MV_Sheep_9_6': 72082058480683571
+      '!$MV_Sheep_9_7': 8297360816262274098
+      '!$MV_Sheep_9_8': -6458674392464117684
+      '!$MV_Sheep_9_9': -7123752234226331420
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

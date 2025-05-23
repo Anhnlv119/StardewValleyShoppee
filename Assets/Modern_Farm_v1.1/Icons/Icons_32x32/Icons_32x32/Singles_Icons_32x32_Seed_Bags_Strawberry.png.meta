@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Singles_Icons_32x32_Seed_Bags_Strawberry_0: -1006064651710357146
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

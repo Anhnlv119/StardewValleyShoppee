@@ -497,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Modern_Farm_vfx_Falling_Leaf_32x32_0: 368295285508336927
+      Modern_Farm_vfx_Falling_Leaf_32x32_1: -2462951354758707390
+      Modern_Farm_vfx_Falling_Leaf_32x32_10: 4570911269687960440
+      Modern_Farm_vfx_Falling_Leaf_32x32_11: -185572440096180935
+      Modern_Farm_vfx_Falling_Leaf_32x32_12: -8040391991149176816
+      Modern_Farm_vfx_Falling_Leaf_32x32_13: -8950376047862338363
+      Modern_Farm_vfx_Falling_Leaf_32x32_14: 3371308413790624278
+      Modern_Farm_vfx_Falling_Leaf_32x32_2: -3210929976096791759
+      Modern_Farm_vfx_Falling_Leaf_32x32_3: 8716891660526487738
+      Modern_Farm_vfx_Falling_Leaf_32x32_4: -6444756521009336794
+      Modern_Farm_vfx_Falling_Leaf_32x32_5: 2834362618490366309
+      Modern_Farm_vfx_Falling_Leaf_32x32_6: -7019500019746796406
+      Modern_Farm_vfx_Falling_Leaf_32x32_7: 718710434396812503
+      Modern_Farm_vfx_Falling_Leaf_32x32_8: -5893328843564695207
+      Modern_Farm_vfx_Falling_Leaf_32x32_9: -9210093144312795724
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pencils_Can_Black_Shadow_DIY_Crafting_Table_32x32_0: -2973797737518257580
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

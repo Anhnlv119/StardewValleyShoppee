@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Zucchini_Rotten_32x32_0: 3834244339240505950
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

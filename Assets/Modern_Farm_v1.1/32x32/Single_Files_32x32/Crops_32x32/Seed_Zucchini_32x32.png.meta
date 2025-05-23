@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Seed_Zucchini_32x32_0: 460792943081634314
+      Seed_Zucchini_32x32_1: -5918809962132932938
+      Seed_Zucchini_32x32_2: 9057326248169763012
+      Seed_Zucchini_32x32_3: -5000639896347365185
+      Seed_Zucchini_32x32_4: 4426858856238278979
+      Seed_Zucchini_32x32_5: 7600593463802620908
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tileset_Farm_Props_6_0: 6295130686741206612
+      Tileset_Farm_Props_6_1: -2151788988553055298
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

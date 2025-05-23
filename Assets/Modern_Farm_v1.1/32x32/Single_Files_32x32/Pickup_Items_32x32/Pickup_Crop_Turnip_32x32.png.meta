@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pickup_Crop_Turnip_32x32_0: -3726173584301562178
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

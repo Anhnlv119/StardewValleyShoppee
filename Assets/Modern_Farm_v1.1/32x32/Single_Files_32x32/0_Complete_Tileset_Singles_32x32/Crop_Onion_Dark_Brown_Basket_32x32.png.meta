@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Onion_Dark_Brown_Basket_32x32_0: 1135755744810052996
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

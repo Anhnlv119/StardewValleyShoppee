@@ -1022,7 +1022,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Body_2_Harvesting_36_frames_32x32_0: -3725925226482216803
+      Body_2_Harvesting_36_frames_32x32_1: 4647491042416547326
+      Body_2_Harvesting_36_frames_32x32_10: 5399429512690198748
+      Body_2_Harvesting_36_frames_32x32_11: -287025276624660775
+      Body_2_Harvesting_36_frames_32x32_12: 8689979095249397558
+      Body_2_Harvesting_36_frames_32x32_13: -3393072207565001002
+      Body_2_Harvesting_36_frames_32x32_14: 3108811062348071915
+      Body_2_Harvesting_36_frames_32x32_15: -5829945299674900897
+      Body_2_Harvesting_36_frames_32x32_16: -5937009033067806771
+      Body_2_Harvesting_36_frames_32x32_17: -2576862276114929517
+      Body_2_Harvesting_36_frames_32x32_18: 6742442002658961370
+      Body_2_Harvesting_36_frames_32x32_19: -5418740666641453523
+      Body_2_Harvesting_36_frames_32x32_2: 2668526600008858745
+      Body_2_Harvesting_36_frames_32x32_20: -2835203769711225460
+      Body_2_Harvesting_36_frames_32x32_21: -8722963021297481226
+      Body_2_Harvesting_36_frames_32x32_22: -2860498905504518399
+      Body_2_Harvesting_36_frames_32x32_23: 6392480199979399573
+      Body_2_Harvesting_36_frames_32x32_24: 3998581510285925133
+      Body_2_Harvesting_36_frames_32x32_25: 8840432872181678844
+      Body_2_Harvesting_36_frames_32x32_26: 458086091758956622
+      Body_2_Harvesting_36_frames_32x32_27: 2333421786930893454
+      Body_2_Harvesting_36_frames_32x32_28: 801916334730195972
+      Body_2_Harvesting_36_frames_32x32_29: -2786237984787222669
+      Body_2_Harvesting_36_frames_32x32_3: 1068306125821047573
+      Body_2_Harvesting_36_frames_32x32_30: -1825965647125318189
+      Body_2_Harvesting_36_frames_32x32_31: -8636548701314859712
+      Body_2_Harvesting_36_frames_32x32_32: -1625173272576250505
+      Body_2_Harvesting_36_frames_32x32_33: -4487262015811048004
+      Body_2_Harvesting_36_frames_32x32_34: 8108341304672603570
+      Body_2_Harvesting_36_frames_32x32_35: 6747795248518053309
+      Body_2_Harvesting_36_frames_32x32_4: 9063130330892384247
+      Body_2_Harvesting_36_frames_32x32_5: 1290796632421723808
+      Body_2_Harvesting_36_frames_32x32_6: 4816198094181221334
+      Body_2_Harvesting_36_frames_32x32_7: -793957537031126063
+      Body_2_Harvesting_36_frames_32x32_8: 596148985928629138
+      Body_2_Harvesting_36_frames_32x32_9: 8976723201717775067
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

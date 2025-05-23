@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Seed_Bags_Radish_0: 1964637458889498911
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

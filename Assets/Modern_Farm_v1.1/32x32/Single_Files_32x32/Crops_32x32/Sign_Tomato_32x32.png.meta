@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sign_Tomato_32x32_0: 549083509376260742
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

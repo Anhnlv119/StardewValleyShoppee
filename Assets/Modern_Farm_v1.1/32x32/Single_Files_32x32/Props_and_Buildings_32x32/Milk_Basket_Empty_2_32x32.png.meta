@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Milk_Basket_Empty_2_32x32_0: 4181741645948367086
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

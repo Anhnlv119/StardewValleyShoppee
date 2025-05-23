@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pot_Tree_Peach_32x32_0: -2478580671980147890
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -672,7 +672,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$MV_Farmer_1_Watering_0': 2091582788957670385
+      '!$MV_Farmer_1_Watering_1': 1491151902713948610
+      '!$MV_Farmer_1_Watering_10': 1196171205329176237
+      '!$MV_Farmer_1_Watering_11': 2453985034692758219
+      '!$MV_Farmer_1_Watering_12': -4132894587111967945
+      '!$MV_Farmer_1_Watering_13': -8097224707309007988
+      '!$MV_Farmer_1_Watering_14': 6533112954853559585
+      '!$MV_Farmer_1_Watering_15': 6130838084718962645
+      '!$MV_Farmer_1_Watering_16': -3750372631583743060
+      '!$MV_Farmer_1_Watering_17': -7760352379082800098
+      '!$MV_Farmer_1_Watering_18': -319805814184260194
+      '!$MV_Farmer_1_Watering_19': -6588059662355920819
+      '!$MV_Farmer_1_Watering_2': -8797348755588949570
+      '!$MV_Farmer_1_Watering_20': 1786377429470301937
+      '!$MV_Farmer_1_Watering_21': 5718433530979216646
+      '!$MV_Farmer_1_Watering_3': 6795595931003584371
+      '!$MV_Farmer_1_Watering_4': -3808923682033400918
+      '!$MV_Farmer_1_Watering_5': -6652862186936403429
+      '!$MV_Farmer_1_Watering_6': -7660193600958837543
+      '!$MV_Farmer_1_Watering_7': -5569282061021976023
+      '!$MV_Farmer_1_Watering_8': -1043742320547469760
+      '!$MV_Farmer_1_Watering_9': 9201550676136731414
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

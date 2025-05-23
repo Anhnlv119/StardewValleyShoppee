@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rock_Small_Bronze_Stone_32x32_0: 9069211339094544395
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

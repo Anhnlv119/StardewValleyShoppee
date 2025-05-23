@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Basket_Lemon_32x32_0: 2313657152336314691
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

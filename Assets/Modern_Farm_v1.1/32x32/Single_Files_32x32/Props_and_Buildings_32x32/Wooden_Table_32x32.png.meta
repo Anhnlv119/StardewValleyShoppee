@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wooden_Table_32x32_0: 3177323944965535751
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hacksaw_Woodwork_Crafting_Table_32x32_0: 4279672373145371699
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

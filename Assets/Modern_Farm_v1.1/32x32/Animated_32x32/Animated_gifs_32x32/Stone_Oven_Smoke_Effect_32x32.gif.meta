@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stone_Oven_Smoke_Effect_32x32_0: -1656253357390301450
+      Stone_Oven_Smoke_Effect_32x32_1: 8589405350913629290
+      Stone_Oven_Smoke_Effect_32x32_2: 3837485349153302132
+      Stone_Oven_Smoke_Effect_32x32_3: 4397435108096112283
+      Stone_Oven_Smoke_Effect_32x32_4: 6836857866523648962
+      Stone_Oven_Smoke_Effect_32x32_5: 8547244275603143785
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

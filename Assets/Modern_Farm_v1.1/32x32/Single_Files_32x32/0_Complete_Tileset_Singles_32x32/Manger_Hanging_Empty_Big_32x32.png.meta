@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Manger_Hanging_Empty_Big_32x32_0: 3262632208230219705
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

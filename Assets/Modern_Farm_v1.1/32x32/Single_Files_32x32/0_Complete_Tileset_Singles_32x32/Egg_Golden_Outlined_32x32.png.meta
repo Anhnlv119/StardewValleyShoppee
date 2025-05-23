@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Egg_Golden_Outlined_32x32_0: -4531102312827738930
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

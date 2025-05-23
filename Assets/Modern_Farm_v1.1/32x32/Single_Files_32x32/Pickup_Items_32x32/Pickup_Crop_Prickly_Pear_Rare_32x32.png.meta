@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pickup_Crop_Prickly_Pear_Rare_32x32_0: -1409281584358473818
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

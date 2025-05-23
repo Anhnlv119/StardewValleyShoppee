@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Silo_Door_32x32_0: 6364763840952759461
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fruit_Sign_Apple_32x32_0: 8082940749552811320
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

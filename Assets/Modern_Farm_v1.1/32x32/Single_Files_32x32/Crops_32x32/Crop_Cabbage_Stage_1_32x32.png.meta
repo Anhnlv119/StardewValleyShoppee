@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Cabbage_Stage_1_32x32_0: -4054030892121994521
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

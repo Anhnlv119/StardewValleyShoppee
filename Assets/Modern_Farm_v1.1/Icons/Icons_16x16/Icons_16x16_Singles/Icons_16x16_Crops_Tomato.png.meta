@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Crops_Tomato_0: -6252931576774431231
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

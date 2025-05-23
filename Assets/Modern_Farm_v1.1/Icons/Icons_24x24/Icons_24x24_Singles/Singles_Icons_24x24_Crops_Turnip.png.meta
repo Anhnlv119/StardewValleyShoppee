@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Singles_Icons_24x24_Crops_Turnip_0: -6559246687934752684
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

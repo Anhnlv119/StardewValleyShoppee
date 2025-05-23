@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fruit_Tree_Lemon_Fruitless_Big_32x32_0: 4729556206681022554
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

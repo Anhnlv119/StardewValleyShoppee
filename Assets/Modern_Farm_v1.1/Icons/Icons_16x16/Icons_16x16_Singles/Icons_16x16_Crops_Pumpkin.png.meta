@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Crops_Pumpkin_0: -8320980464329351690
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

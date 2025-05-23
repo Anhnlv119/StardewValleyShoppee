@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Topsoil_32x32_0: -2785630601298836077
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

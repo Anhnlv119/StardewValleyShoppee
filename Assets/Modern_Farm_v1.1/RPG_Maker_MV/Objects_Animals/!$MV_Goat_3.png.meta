@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$MV_Goat_3_0': 6024449231314438253
+      '!$MV_Goat_3_1': -2135339285857191200
+      '!$MV_Goat_3_10': -2799836526245162075
+      '!$MV_Goat_3_11': -3926249950154768481
+      '!$MV_Goat_3_2': 4756350633884532861
+      '!$MV_Goat_3_3': -5578858493481826301
+      '!$MV_Goat_3_4': 6173587400053467667
+      '!$MV_Goat_3_5': 5868715340400195695
+      '!$MV_Goat_3_6': -1754964282712130697
+      '!$MV_Goat_3_7': 3781509943777308005
+      '!$MV_Goat_3_8': 9068415019015520143
+      '!$MV_Goat_3_9': -6691591935110902772
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

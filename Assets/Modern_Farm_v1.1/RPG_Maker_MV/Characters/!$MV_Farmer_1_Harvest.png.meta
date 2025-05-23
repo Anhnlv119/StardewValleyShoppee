@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$MV_Farmer_1_Harvest_0': 7598851446813792099
+      '!$MV_Farmer_1_Harvest_1': -769907299991517128
+      '!$MV_Farmer_1_Harvest_10': -6059194494479351236
+      '!$MV_Farmer_1_Harvest_11': -3436137721279680939
+      '!$MV_Farmer_1_Harvest_2': -4536467226441272801
+      '!$MV_Farmer_1_Harvest_3': 5866877620154526676
+      '!$MV_Farmer_1_Harvest_4': 2209723192308317220
+      '!$MV_Farmer_1_Harvest_5': 5201928357936779241
+      '!$MV_Farmer_1_Harvest_6': -7450568355734069616
+      '!$MV_Farmer_1_Harvest_7': -8931345811671352240
+      '!$MV_Farmer_1_Harvest_8': -6143607201145516802
+      '!$MV_Farmer_1_Harvest_9': 1914630951695017979
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

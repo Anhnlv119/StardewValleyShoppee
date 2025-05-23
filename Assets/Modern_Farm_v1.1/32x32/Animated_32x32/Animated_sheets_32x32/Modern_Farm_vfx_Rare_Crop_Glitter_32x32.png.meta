@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_0: -8238319218299321447
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_1: 8033539246490277512
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_10: -302175268820071227
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_11: -1256706255914924299
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_12: 3200696531588776332
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_13: 4994417748338902508
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_14: 4341409653642609788
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_15: 5718894079272646430
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_16: 7210820624519931238
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_17: -1527197110806859724
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_18: 8764790895981489049
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_19: -7276043171915713365
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_2: -2731876104538665196
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_3: 565552426766905265
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_4: 2771988967385558444
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_5: -228409304317304534
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_6: -8325448271573973257
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_7: 5699099895589430961
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_8: -6874561230848275458
+      Modern_Farm_vfx_Rare_Crop_Glitter_32x32_9: 5194868054716014641
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

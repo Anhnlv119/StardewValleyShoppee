@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icons_16x16_Crops_ Banana_0: -1526831774573271863
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

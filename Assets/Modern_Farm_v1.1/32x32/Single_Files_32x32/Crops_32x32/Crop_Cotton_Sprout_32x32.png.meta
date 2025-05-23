@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Crop_Cotton_Sprout_32x32_0: 8058763180838485895
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

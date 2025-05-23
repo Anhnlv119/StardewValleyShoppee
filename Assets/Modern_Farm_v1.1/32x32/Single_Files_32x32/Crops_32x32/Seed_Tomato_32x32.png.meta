@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Seed_Tomato_32x32_0: 6097466544397034481
+      Seed_Tomato_32x32_1: -682237738015320443
+      Seed_Tomato_32x32_2: -6561748552151978753
+      Seed_Tomato_32x32_3: 2758243257806775008
+      Seed_Tomato_32x32_4: 2108453148885593561
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

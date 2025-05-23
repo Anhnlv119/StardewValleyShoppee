@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fruit_Tree_Apple_Ripe_Shake_32x32_0: 7091086709231575142
+      Fruit_Tree_Apple_Ripe_Shake_32x32_1: -7157046417160930548
+      Fruit_Tree_Apple_Ripe_Shake_32x32_2: -1789454532413984825
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Singles_Icons_24x24_Seed_Bags_Coffee_0: -7834775421403487081
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Singles_Icons_32x32_Shears_Whool_0: 837702388875847281
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

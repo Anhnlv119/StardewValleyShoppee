@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Donkey_Sign_32x32_0: 8920486197365514568
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

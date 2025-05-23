@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wooden_Crate_2_32x32_0: -2011295920427520048
+      Wooden_Crate_2_32x32_1: 4335515679184783117
+      Wooden_Crate_2_32x32_10: 6290366565934338933
+      Wooden_Crate_2_32x32_11: -3984993435922318672
+      Wooden_Crate_2_32x32_12: -2829163879439952528
+      Wooden_Crate_2_32x32_13: 3809259737603542414
+      Wooden_Crate_2_32x32_14: -8810000623470725386
+      Wooden_Crate_2_32x32_15: 8903701396591745963
+      Wooden_Crate_2_32x32_16: 7950616294688873512
+      Wooden_Crate_2_32x32_17: 6256279923730901710
+      Wooden_Crate_2_32x32_18: -9164902252465442143
+      Wooden_Crate_2_32x32_19: -7916959308165284360
+      Wooden_Crate_2_32x32_2: -1283750694135786090
+      Wooden_Crate_2_32x32_3: 4136172931935709489
+      Wooden_Crate_2_32x32_4: -6987308610781605129
+      Wooden_Crate_2_32x32_5: -1545472140129148932
+      Wooden_Crate_2_32x32_6: -3311773440875492709
+      Wooden_Crate_2_32x32_7: 7503632835381155298
+      Wooden_Crate_2_32x32_8: -4399511834180398485
+      Wooden_Crate_2_32x32_9: -5740971919480336673
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

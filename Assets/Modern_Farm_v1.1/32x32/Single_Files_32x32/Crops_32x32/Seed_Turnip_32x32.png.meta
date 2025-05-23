@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Seed_Turnip_32x32_0: 2867116764746528613
+      Seed_Turnip_32x32_1: 5532514086966439
+      Seed_Turnip_32x32_2: 320410809792197308
+      Seed_Turnip_32x32_3: 5047369794830687385
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

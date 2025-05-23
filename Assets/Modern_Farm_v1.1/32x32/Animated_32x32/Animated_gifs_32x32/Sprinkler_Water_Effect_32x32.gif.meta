@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sprinkler_Water_Effect_32x32_0: 8294608708732822715
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
