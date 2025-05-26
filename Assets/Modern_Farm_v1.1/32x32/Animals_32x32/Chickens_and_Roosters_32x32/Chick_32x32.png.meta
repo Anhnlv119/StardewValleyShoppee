@@ -315,7 +315,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -380,10 +380,10 @@ TextureImporter:
       name: Chick_32x32_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 97
-        width: 24
-        height: 22
+        x: 0
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -402,10 +402,10 @@ TextureImporter:
       name: Chick_32x32_1
       rect:
         serializedVersion: 2
-        x: 37
-        y: 97
-        width: 22
-        height: 24
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -424,10 +424,10 @@ TextureImporter:
       name: Chick_32x32_2
       rect:
         serializedVersion: 2
-        x: 67
-        y: 97
-        width: 24
-        height: 22
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -446,10 +446,10 @@ TextureImporter:
       name: Chick_32x32_3
       rect:
         serializedVersion: 2
-        x: 101
-        y: 99
-        width: 22
-        height: 24
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -468,10 +468,10 @@ TextureImporter:
       name: Chick_32x32_4
       rect:
         serializedVersion: 2
-        x: 127
-        y: 95
-        width: 18
-        height: 20
+        x: 128
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -490,10 +490,10 @@ TextureImporter:
       name: Chick_32x32_5
       rect:
         serializedVersion: 2
-        x: 143
-        y: 95
-        width: 18
-        height: 20
+        x: 160
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -512,10 +512,10 @@ TextureImporter:
       name: Chick_32x32_6
       rect:
         serializedVersion: 2
-        x: 161
-        y: 95
-        width: 28
-        height: 20
+        x: 192
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -534,10 +534,10 @@ TextureImporter:
       name: Chick_32x32_7
       rect:
         serializedVersion: 2
-        x: 189
-        y: 105
-        width: 6
-        height: 6
+        x: 224
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -556,10 +556,10 @@ TextureImporter:
       name: Chick_32x32_8
       rect:
         serializedVersion: 2
-        x: 199
-        y: 95
-        width: 14
-        height: 20
+        x: 256
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -578,10 +578,10 @@ TextureImporter:
       name: Chick_32x32_9
       rect:
         serializedVersion: 2
-        x: 223
-        y: 95
-        width: 16
-        height: 20
+        x: 288
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -600,10 +600,10 @@ TextureImporter:
       name: Chick_32x32_10
       rect:
         serializedVersion: 2
-        x: 239
-        y: 95
-        width: 18
-        height: 20
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -622,10 +622,10 @@ TextureImporter:
       name: Chick_32x32_11
       rect:
         serializedVersion: 2
-        x: 259
-        y: 95
-        width: 14
-        height: 20
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -644,10 +644,10 @@ TextureImporter:
       name: Chick_32x32_12
       rect:
         serializedVersion: 2
-        x: 273
-        y: 105
-        width: 6
-        height: 6
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -666,10 +666,10 @@ TextureImporter:
       name: Chick_32x32_13
       rect:
         serializedVersion: 2
-        x: 287
-        y: 95
-        width: 14
-        height: 20
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -688,10 +688,10 @@ TextureImporter:
       name: Chick_32x32_14
       rect:
         serializedVersion: 2
-        x: 301
-        y: 95
-        width: 14
-        height: 20
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -710,10 +710,10 @@ TextureImporter:
       name: Chick_32x32_15
       rect:
         serializedVersion: 2
-        x: 189
-        y: 95
-        width: 6
-        height: 6
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -732,10 +732,10 @@ TextureImporter:
       name: Chick_32x32_16
       rect:
         serializedVersion: 2
-        x: 273
-        y: 95
-        width: 6
-        height: 6
+        x: 192
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -754,10 +754,10 @@ TextureImporter:
       name: Chick_32x32_17
       rect:
         serializedVersion: 2
-        x: 5
-        y: 65
-        width: 24
-        height: 22
+        x: 224
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -776,10 +776,10 @@ TextureImporter:
       name: Chick_32x32_18
       rect:
         serializedVersion: 2
-        x: 37
-        y: 65
-        width: 24
-        height: 22
+        x: 256
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -798,10 +798,10 @@ TextureImporter:
       name: Chick_32x32_19
       rect:
         serializedVersion: 2
-        x: 69
-        y: 65
-        width: 24
-        height: 22
+        x: 288
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -820,10 +820,10 @@ TextureImporter:
       name: Chick_32x32_20
       rect:
         serializedVersion: 2
-        x: 101
-        y: 65
-        width: 24
-        height: 22
+        x: 320
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -842,10 +842,10 @@ TextureImporter:
       name: Chick_32x32_21
       rect:
         serializedVersion: 2
-        x: 133
-        y: 65
-        width: 24
-        height: 24
+        x: 352
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -864,10 +864,10 @@ TextureImporter:
       name: Chick_32x32_22
       rect:
         serializedVersion: 2
-        x: 165
-        y: 65
-        width: 24
-        height: 24
+        x: 384
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -886,10 +886,10 @@ TextureImporter:
       name: Chick_32x32_23
       rect:
         serializedVersion: 2
-        x: 197
-        y: 65
-        width: 22
-        height: 24
+        x: 416
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -908,10 +908,10 @@ TextureImporter:
       name: Chick_32x32_24
       rect:
         serializedVersion: 2
-        x: 229
-        y: 65
-        width: 22
-        height: 24
+        x: 448
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -930,10 +930,10 @@ TextureImporter:
       name: Chick_32x32_25
       rect:
         serializedVersion: 2
-        x: 259
-        y: 65
-        width: 26
-        height: 24
+        x: 480
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -952,10 +952,10 @@ TextureImporter:
       name: Chick_32x32_26
       rect:
         serializedVersion: 2
-        x: 291
-        y: 65
-        width: 26
-        height: 24
+        x: 512
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -974,10 +974,10 @@ TextureImporter:
       name: Chick_32x32_27
       rect:
         serializedVersion: 2
-        x: 323
-        y: 65
-        width: 26
-        height: 26
+        x: 544
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -996,10 +996,10 @@ TextureImporter:
       name: Chick_32x32_28
       rect:
         serializedVersion: 2
-        x: 357
-        y: 65
-        width: 22
-        height: 26
+        x: 576
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1018,10 +1018,10 @@ TextureImporter:
       name: Chick_32x32_29
       rect:
         serializedVersion: 2
-        x: 387
-        y: 65
-        width: 24
-        height: 22
+        x: 608
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1040,10 +1040,10 @@ TextureImporter:
       name: Chick_32x32_30
       rect:
         serializedVersion: 2
-        x: 419
-        y: 65
-        width: 24
-        height: 22
+        x: 640
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1062,10 +1062,10 @@ TextureImporter:
       name: Chick_32x32_31
       rect:
         serializedVersion: 2
-        x: 451
-        y: 65
-        width: 24
-        height: 22
+        x: 672
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1084,10 +1084,10 @@ TextureImporter:
       name: Chick_32x32_32
       rect:
         serializedVersion: 2
-        x: 483
-        y: 65
-        width: 24
-        height: 22
+        x: 704
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1106,10 +1106,10 @@ TextureImporter:
       name: Chick_32x32_33
       rect:
         serializedVersion: 2
-        x: 515
-        y: 65
-        width: 24
-        height: 24
+        x: 736
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1128,10 +1128,10 @@ TextureImporter:
       name: Chick_32x32_34
       rect:
         serializedVersion: 2
-        x: 547
-        y: 65
-        width: 24
-        height: 24
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1150,10 +1150,10 @@ TextureImporter:
       name: Chick_32x32_35
       rect:
         serializedVersion: 2
-        x: 581
-        y: 67
-        width: 22
-        height: 24
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1172,10 +1172,10 @@ TextureImporter:
       name: Chick_32x32_36
       rect:
         serializedVersion: 2
-        x: 613
-        y: 67
-        width: 22
-        height: 24
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1194,10 +1194,10 @@ TextureImporter:
       name: Chick_32x32_37
       rect:
         serializedVersion: 2
-        x: 643
-        y: 67
-        width: 26
-        height: 24
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1216,10 +1216,10 @@ TextureImporter:
       name: Chick_32x32_38
       rect:
         serializedVersion: 2
-        x: 675
-        y: 67
-        width: 26
-        height: 26
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1238,10 +1238,10 @@ TextureImporter:
       name: Chick_32x32_39
       rect:
         serializedVersion: 2
-        x: 707
-        y: 69
-        width: 26
-        height: 24
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1260,10 +1260,10 @@ TextureImporter:
       name: Chick_32x32_40
       rect:
         serializedVersion: 2
-        x: 739
-        y: 69
-        width: 26
-        height: 22
+        x: 192
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1282,10 +1282,10 @@ TextureImporter:
       name: Chick_32x32_41
       rect:
         serializedVersion: 2
-        x: 5
-        y: 33
-        width: 24
-        height: 20
+        x: 224
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1304,10 +1304,10 @@ TextureImporter:
       name: Chick_32x32_42
       rect:
         serializedVersion: 2
-        x: 37
-        y: 33
-        width: 24
-        height: 20
+        x: 256
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1326,10 +1326,10 @@ TextureImporter:
       name: Chick_32x32_43
       rect:
         serializedVersion: 2
-        x: 69
-        y: 33
-        width: 24
-        height: 20
+        x: 288
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1348,10 +1348,10 @@ TextureImporter:
       name: Chick_32x32_44
       rect:
         serializedVersion: 2
-        x: 101
-        y: 33
-        width: 24
-        height: 20
+        x: 320
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1370,10 +1370,10 @@ TextureImporter:
       name: Chick_32x32_45
       rect:
         serializedVersion: 2
-        x: 133
-        y: 33
-        width: 24
-        height: 20
+        x: 352
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1392,10 +1392,10 @@ TextureImporter:
       name: Chick_32x32_46
       rect:
         serializedVersion: 2
-        x: 165
-        y: 33
-        width: 24
-        height: 20
+        x: 384
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1414,10 +1414,10 @@ TextureImporter:
       name: Chick_32x32_47
       rect:
         serializedVersion: 2
-        x: 195
-        y: 33
-        width: 26
-        height: 20
+        x: 416
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1436,10 +1436,10 @@ TextureImporter:
       name: Chick_32x32_48
       rect:
         serializedVersion: 2
-        x: 229
-        y: 33
-        width: 22
-        height: 22
+        x: 448
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1458,10 +1458,10 @@ TextureImporter:
       name: Chick_32x32_49
       rect:
         serializedVersion: 2
-        x: 259
-        y: 33
-        width: 26
-        height: 20
+        x: 480
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1480,10 +1480,10 @@ TextureImporter:
       name: Chick_32x32_50
       rect:
         serializedVersion: 2
-        x: 293
-        y: 33
-        width: 22
-        height: 22
+        x: 512
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1502,10 +1502,10 @@ TextureImporter:
       name: Chick_32x32_51
       rect:
         serializedVersion: 2
-        x: 323
-        y: 33
-        width: 26
-        height: 20
+        x: 544
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1524,10 +1524,10 @@ TextureImporter:
       name: Chick_32x32_52
       rect:
         serializedVersion: 2
-        x: 357
-        y: 33
-        width: 22
-        height: 22
+        x: 576
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1546,10 +1546,10 @@ TextureImporter:
       name: Chick_32x32_53
       rect:
         serializedVersion: 2
-        x: 387
-        y: 33
-        width: 24
-        height: 20
+        x: 608
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1568,10 +1568,10 @@ TextureImporter:
       name: Chick_32x32_54
       rect:
         serializedVersion: 2
-        x: 419
-        y: 33
-        width: 24
-        height: 20
+        x: 640
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1590,10 +1590,10 @@ TextureImporter:
       name: Chick_32x32_55
       rect:
         serializedVersion: 2
-        x: 451
-        y: 33
-        width: 24
-        height: 20
+        x: 672
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1612,10 +1612,10 @@ TextureImporter:
       name: Chick_32x32_56
       rect:
         serializedVersion: 2
-        x: 483
-        y: 33
-        width: 24
-        height: 20
+        x: 704
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1634,10 +1634,10 @@ TextureImporter:
       name: Chick_32x32_57
       rect:
         serializedVersion: 2
-        x: 515
-        y: 33
-        width: 24
-        height: 20
+        x: 736
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1656,10 +1656,10 @@ TextureImporter:
       name: Chick_32x32_58
       rect:
         serializedVersion: 2
-        x: 547
-        y: 33
-        width: 24
-        height: 20
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1678,10 +1678,10 @@ TextureImporter:
       name: Chick_32x32_59
       rect:
         serializedVersion: 2
-        x: 579
-        y: 31
-        width: 26
-        height: 28
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1700,10 +1700,10 @@ TextureImporter:
       name: Chick_32x32_60
       rect:
         serializedVersion: 2
-        x: 613
-        y: 33
-        width: 22
-        height: 26
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1722,10 +1722,10 @@ TextureImporter:
       name: Chick_32x32_61
       rect:
         serializedVersion: 2
-        x: 643
-        y: 31
-        width: 26
-        height: 28
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1744,10 +1744,10 @@ TextureImporter:
       name: Chick_32x32_62
       rect:
         serializedVersion: 2
-        x: 677
-        y: 33
-        width: 22
-        height: 26
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1766,10 +1766,10 @@ TextureImporter:
       name: Chick_32x32_63
       rect:
         serializedVersion: 2
-        x: 707
-        y: 31
-        width: 26
-        height: 28
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1788,10 +1788,10 @@ TextureImporter:
       name: Chick_32x32_64
       rect:
         serializedVersion: 2
-        x: 741
-        y: 33
-        width: 22
-        height: 26
+        x: 192
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1810,10 +1810,10 @@ TextureImporter:
       name: Chick_32x32_65
       rect:
         serializedVersion: 2
-        x: 5
-        y: 1
-        width: 24
-        height: 22
+        x: 224
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1832,10 +1832,10 @@ TextureImporter:
       name: Chick_32x32_66
       rect:
         serializedVersion: 2
-        x: 37
-        y: 1
-        width: 24
-        height: 24
+        x: 256
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1854,10 +1854,10 @@ TextureImporter:
       name: Chick_32x32_67
       rect:
         serializedVersion: 2
-        x: 69
-        y: 1
-        width: 24
-        height: 22
+        x: 288
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1876,10 +1876,10 @@ TextureImporter:
       name: Chick_32x32_68
       rect:
         serializedVersion: 2
-        x: 101
-        y: 1
-        width: 24
-        height: 22
+        x: 320
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1898,10 +1898,10 @@ TextureImporter:
       name: Chick_32x32_69
       rect:
         serializedVersion: 2
-        x: 133
-        y: 1
-        width: 24
-        height: 24
+        x: 352
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1920,10 +1920,10 @@ TextureImporter:
       name: Chick_32x32_70
       rect:
         serializedVersion: 2
-        x: 165
-        y: 1
-        width: 24
-        height: 22
+        x: 384
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1942,10 +1942,10 @@ TextureImporter:
       name: Chick_32x32_71
       rect:
         serializedVersion: 2
-        x: 197
-        y: 1
-        width: 22
-        height: 24
+        x: 416
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1964,10 +1964,10 @@ TextureImporter:
       name: Chick_32x32_72
       rect:
         serializedVersion: 2
-        x: 227
-        y: 1
-        width: 26
-        height: 26
+        x: 448
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1986,10 +1986,10 @@ TextureImporter:
       name: Chick_32x32_73
       rect:
         serializedVersion: 2
-        x: 259
-        y: 1
-        width: 26
-        height: 26
+        x: 480
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2008,10 +2008,10 @@ TextureImporter:
       name: Chick_32x32_74
       rect:
         serializedVersion: 2
-        x: 293
-        y: 1
-        width: 22
-        height: 24
+        x: 512
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2030,10 +2030,10 @@ TextureImporter:
       name: Chick_32x32_75
       rect:
         serializedVersion: 2
-        x: 323
-        y: 1
-        width: 26
-        height: 26
+        x: 544
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2052,10 +2052,10 @@ TextureImporter:
       name: Chick_32x32_76
       rect:
         serializedVersion: 2
-        x: 355
-        y: 1
-        width: 26
-        height: 26
+        x: 576
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2074,10 +2074,10 @@ TextureImporter:
       name: Chick_32x32_77
       rect:
         serializedVersion: 2
-        x: 387
-        y: 1
-        width: 24
-        height: 22
+        x: 608
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2096,10 +2096,10 @@ TextureImporter:
       name: Chick_32x32_78
       rect:
         serializedVersion: 2
-        x: 419
-        y: 1
-        width: 24
-        height: 24
+        x: 640
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2118,10 +2118,10 @@ TextureImporter:
       name: Chick_32x32_79
       rect:
         serializedVersion: 2
-        x: 451
-        y: 1
-        width: 24
-        height: 22
+        x: 672
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2140,10 +2140,10 @@ TextureImporter:
       name: Chick_32x32_80
       rect:
         serializedVersion: 2
-        x: 483
-        y: 1
-        width: 24
-        height: 22
+        x: 704
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2162,10 +2162,10 @@ TextureImporter:
       name: Chick_32x32_81
       rect:
         serializedVersion: 2
-        x: 515
-        y: 1
-        width: 24
-        height: 24
+        x: 736
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2180,165 +2180,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Chick_32x32_82
-      rect:
-        serializedVersion: 2
-        x: 547
-        y: 1
-        width: 24
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7a0238f3e76f36c50800000000000000
-      internalID: 6657435696275595431
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chick_32x32_83
-      rect:
-        serializedVersion: 2
-        x: 581
-        y: 3
-        width: 22
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df71943cd90c27670800000000000000
-      internalID: 8535096027639257085
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chick_32x32_84
-      rect:
-        serializedVersion: 2
-        x: 611
-        y: 3
-        width: 26
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cb6a48b7be29b6c20800000000000000
-      internalID: 3200813500264130236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chick_32x32_85
-      rect:
-        serializedVersion: 2
-        x: 643
-        y: 3
-        width: 26
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b85b95bb4c5bb5290800000000000000
-      internalID: -7900521264729967221
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chick_32x32_86
-      rect:
-        serializedVersion: 2
-        x: 677
-        y: 3
-        width: 22
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 40036d6b1fe0b3d00800000000000000
-      internalID: 953372177436389380
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chick_32x32_87
-      rect:
-        serializedVersion: 2
-        x: 707
-        y: 3
-        width: 26
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 931e4336031cde0e0800000000000000
-      internalID: -2238921026166267591
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chick_32x32_88
-      rect:
-        serializedVersion: 2
-        x: 739
-        y: 3
-        width: 26
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 52410245f78447eb0800000000000000
-      internalID: -4723070397495372763
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 93bf21153338d5344adf98835cd48783
     internalID: 0
     vertices: []
     indices: 
@@ -2429,13 +2275,6 @@ TextureImporter:
       Chick_32x32_8: -2604980865652363135
       Chick_32x32_80: -7207260811935645465
       Chick_32x32_81: 7172289172572286764
-      Chick_32x32_82: 6657435696275595431
-      Chick_32x32_83: 8535096027639257085
-      Chick_32x32_84: 3200813500264130236
-      Chick_32x32_85: -7900521264729967221
-      Chick_32x32_86: 953372177436389380
-      Chick_32x32_87: -2238921026166267591
-      Chick_32x32_88: -4723070397495372763
       Chick_32x32_9: -6948180117132055213
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
